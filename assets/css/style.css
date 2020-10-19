@@ -13,3 +13,28 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
+
+/* ---------- Core Styling */
+
+p {
+    color: #ffffee;
+    font-size: 2vw;
+    display: inline-block;
+    font-family: Arvo, serif;
+    text-overflow: ellipsis;
+}
+
+h1 {
+    font-size: 5vw;
+    color: #d4af37;
+}
+
+h2 {
+    color: #d4af37;
+    font-size: 4vw;
+}
+
+.sub-header {
+    font-size: 3vw;
+    font-weight: bold;
+}
