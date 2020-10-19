@@ -1,0 +1,15 @@
+/* General rules and background image */
+
+body {
+    color: #ffffee;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+    background: url("../images/background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}

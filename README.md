@@ -25,6 +25,8 @@ ___
   - Wireframes
 
 - [**Features**](#features)
+
+- [**Deployment**](#deployment)
   ___
 
 ## User Experience (UXD)
@@ -149,10 +151,34 @@ To keep with the intended consistent styling I have used the same two fonts from
 
 ### Wireframes
 
-To be added once image link is live from original commit.
+|                                                  Home                                                    |                                                     About                                                |                                                  Tournaments                                                   |                                              FAQ/Contact                                               |
+| :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
+| [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/assets/wireframes/index-mobile.png) | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/assets/wireframes/about-mobile.png) | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/assets/wireframes/tournaments-mobile.png) | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/assets/wireframes/faq-mobile.png) |
+| [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/assets/wireframes/index-tablet.png) | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/assets/wireframes/about-tablet.png) | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/assets/wireframes/tournaments-tablet.png) | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/assets/wireframes/faq-tablet.png) |
+|     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/assets/wireframes/index-pc.png)     |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/assets/wireframes/about-pc.png)     |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/assets/wireframes/tournaments-pc.png)     |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/assets/wireframes/faq-pc.png)     |
+
+---
 
 ## Features
 
 To be added.
 
+---
+
+## Deployment
+
+### Deploying to Github pages
+
+To achieve deployment I used this process:
+
+1. After pushing my project to GitHub, I navigated and logged into the GitHub site.
+2. I then went to my repositories and selected the one associated to this project: [Trash Tournaments Repository](https://github.com/JoeyyScott/Trash-Tournaments)
+3. On the main repository bar I clicked "Settings" and scrolled to "Github Pages".
+4. Under "Source" dropdown box I selected "Master Branch" and clicked "Save".
+5. After the page refreshed I returned to the "Github Pages" section for the live link to the published site.
+
+The live link for the site is here: [https://joeyyscott.github.io/Trash-Tournaments/](https://joeyyscott.github.io/Trash-Tournaments/)
+
 #### [Back to top](#contents)
+
+
