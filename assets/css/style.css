@@ -14,7 +14,22 @@ body {
     background-size: cover;
 }
 
+/* ---------- Positioning */
+
+.centered {
+    position: relative;
+    margin-top: 2%;
+    height: auto;
+    width: 70vw;
+    padding: 5px;
+}
+
 /* ---------- Core Styling */
+
+.ttstyle {
+    background-color: #2274a5;
+    border: 1px solid #d4af37;
+}
 
 p {
     color: #ffffee;
