@@ -54,6 +54,30 @@ h2 {
     font-weight: bold;
 }
 
+/* ------ NavBar ------ */
+
+.navbar .navbar-toggler {
+    border: none;
+    outline: none;
+}
+
+.navbar-nav {
+    text-align: right;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #d4af37;
+    padding: 5px 10px;
+    font-size: 2.5vw;
+}
+
+.navbar-dark .navbar-nav .nav-link.active {
+    color: #ffffee;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #242045;
+}
+
 /* --------- Media queries */
 
 @media screen and (min-width: 768px) {
