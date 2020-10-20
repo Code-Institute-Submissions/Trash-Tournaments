@@ -53,3 +53,35 @@ h2 {
     font-size: 3vw;
     font-weight: bold;
 }
+
+/* --------- Media queries */
+
+@media screen and (min-width: 768px) {
+    p {
+        font-size: 1vw;
+    }
+    h2 {
+        font-size: 3vw;
+    }
+    h1 {
+        font-size: 4vw;
+    }
+    .sub-header {
+        font-size: 2vw;
+    }
+    .centered {
+        width: 60vw;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    p {
+        font-size: 1vw;
+    }
+    h2 {
+        font-size: 2vw;
+    }
+    h1 {
+        font-size: 3vw;
+    }
+}

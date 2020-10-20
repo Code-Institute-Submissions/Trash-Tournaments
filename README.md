@@ -1,6 +1,6 @@
 <h1 align="center">Trash Tournaments Discord Advertisement Site</h1>
 
-[View a live version of the site here.]()
+[View a live version of the site here.](https://joeyyscott.github.io/Trash-Tournaments/)
 
 Trash Tournaments is a personal community discord aimed at helping peope improve at the game Rocket League. It is owned by me and a few friends and for Milestone Project 1 why not create a site that will get used?
 
