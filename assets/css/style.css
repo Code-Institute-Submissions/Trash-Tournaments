@@ -78,6 +78,11 @@ h2 {
     color: #242045;
 }
 
+.navbar .navbar-icon {
+    color: #d4af37;
+    font-size: 10vw;    
+}
+
 /* --------- Media queries */
 
 @media screen and (min-width: 768px) {
