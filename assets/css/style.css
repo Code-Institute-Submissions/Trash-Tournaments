@@ -42,6 +42,10 @@ p {
     display: inline-block;
     font-family: Arvo, serif;
     text-overflow: ellipsis;
+    overflow-wrap: break-word;
+    width: 90%;
+    margin: auto;
+    padding: 10px;
 }
 
 h1 {
@@ -92,7 +96,7 @@ h2 {
 
 @media screen and (min-width: 768px) {
     p {
-        font-size: 1vw;
+        font-size: 2vw;
     }
     h2 {
         font-size: 3vw;
@@ -102,9 +106,6 @@ h2 {
     }
     .sub-header {
         font-size: 2vw;
-    }
-    .centered {
-        width: 60vw;
     }
     .navbar-dark .navbar-nav .nav-link {
         font-size: 4vw;
@@ -124,5 +125,8 @@ h2 {
     .header-img {
         height: auto;
         width: 6vw;
+    }
+    .centered {
+        width: 60vw;
     }
 }
