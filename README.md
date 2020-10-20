@@ -23,6 +23,7 @@ ___
     - Typograhpy
     - Imagery
   - Wireframes
+  - Design Changes
 
 - [**Features**](#features)
 
@@ -156,6 +157,10 @@ To keep with the intended consistent styling I have used the same two fonts from
 | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/assets/wireframes/index-mobile.png) | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/assets/wireframes/about-mobile.png) | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/assets/wireframes/tournaments-mobile.png) | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/assets/wireframes/faq-mobile.png) |
 | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/assets/wireframes/index-tablet.png) | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/assets/wireframes/about-tablet.png) | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/assets/wireframes/tournaments-tablet.png) | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/assets/wireframes/faq-tablet.png) |
 |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/assets/wireframes/index-pc.png)     |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/assets/wireframes/about-pc.png)     |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/assets/wireframes/tournaments-pc.png)     |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/assets/wireframes/faq-pc.png)     |
+
+### Design changes from project inception
+
++ Originally I was going to use the standard navbartoggler icon from BootStrap but decided to use a font awesome icon inside my span element of the button. Doesn't seem to affect my site as it stands, I used a trash can icon to build the brands presence.
 
 ---
 
