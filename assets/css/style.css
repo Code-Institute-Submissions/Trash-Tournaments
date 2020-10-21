@@ -17,7 +17,7 @@ body {
 /* ---------- Positioning and sizing */
 
 .centered {
-    margin-top: 2%;
+    margin-top: 4%;
     height: auto;
     width: 70vw;
     padding: 5px;
@@ -58,7 +58,7 @@ h2 {
     font-size: 4vw;
 }
 
-.sub-header {
+h3 {
     font-size: 3vw;
     font-weight: bold;
 }
@@ -98,13 +98,13 @@ h2 {
     p {
         font-size: 2vw;
     }
-    h2 {
-        font-size: 3vw;
-    }
     h1 {
         font-size: 4vw;
     }
-    .sub-header {
+    h2 {
+        font-size: 3vw;
+    }
+    .h3 {
         font-size: 2vw;
     }
     .navbar-dark .navbar-nav .nav-link {
@@ -116,11 +116,14 @@ h2 {
     p {
         font-size: 1vw;
     }
+    h1 {
+        font-size: 3vw;
+    }
     h2 {
         font-size: 2vw;
     }
-    h1 {
-        font-size: 3vw;
+    h3 {
+        font-size: 2vw;
     }
     .header-img {
         height: auto;
