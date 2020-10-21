@@ -71,6 +71,7 @@ h3 {
 
 .navbar-nav {
     text-align: right;
+    margin: auto;
 }
 
 .navbar-dark .navbar-nav .nav-link {
