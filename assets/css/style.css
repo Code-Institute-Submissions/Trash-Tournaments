@@ -69,6 +69,13 @@ h3 {
     outline: none;
 }
 
+.navbar .navbar-toggler-icon {
+    background-image: url(../images/nav-logo.png);
+    font-size: 8vw;
+    left: 17%;
+    position: relative;
+}
+
 .navbar-nav {
     text-align: right;
     margin: auto;
@@ -76,7 +83,7 @@ h3 {
 
 .navbar-dark .navbar-nav .nav-link {
     color: #d4af37;
-    padding: 5px 10px;
+    padding: 5px 15px;
     font-size: 6vw;
 }
 
@@ -85,11 +92,6 @@ h3 {
 }
 .navbar-dark .navbar-nav .nav-link:hover {
     color: #242045;
-}
-
-.navbar .navbar-icon {
-    color: #d4af37;
-    font-size: 9vw;    
 }
 
 /* --------- Media queries */
