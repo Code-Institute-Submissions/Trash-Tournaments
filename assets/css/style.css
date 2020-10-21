@@ -29,6 +29,10 @@ body {
     padding: 0;
 }
 
+.header-container {
+    width: 95vw;
+}
+
 /* ---------- Core Styling */
 
 .ttstyle {
@@ -50,16 +54,19 @@ p {
 h1 {
     font-size: 5vw;
     color: #d4af37;
+    line-height: 1;
 }
 
 h2 {
     color: #d4af37;
     font-size: 4vw;
+    line-height: 1;
 }
 
 h3 {
     font-size: 3vw;
     font-weight: bold;
+    line-height: 1;
 }
 
 /* ------ NavBar ------ */
@@ -110,7 +117,7 @@ h3 {
         font-size: 2vw;
     }
     .navbar-dark .navbar-nav .nav-link {
-        font-size: 4vw;
+        font-size: 3vw;
     }
 }
 
@@ -119,7 +126,7 @@ h3 {
         font-size: 1vw;
     }
     h1 {
-        font-size: 3vw;
+        font-size: 2vw;
     }
     h2 {
         font-size: 2vw;
@@ -133,5 +140,9 @@ h3 {
     }
     .centered {
         width: 60vw;
+        margin-top: 1%;
+    }
+    .header-container {
+        width: 80vw;
     }
 }
