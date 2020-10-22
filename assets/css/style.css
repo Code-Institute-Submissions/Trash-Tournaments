@@ -151,11 +151,9 @@ h3 {
 @media screen and (min-width: 992px) {
     .header-container {
         width: 80vw;
-        height: 8vh;
     }
     .footer-container {
         width: 80vw;
-        height: 8vh;
     }
     p {
         font-size: 1vw;
