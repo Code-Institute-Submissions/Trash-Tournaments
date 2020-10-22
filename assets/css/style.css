@@ -33,6 +33,14 @@ body {
     width: 95vw;
 }
 
+.footer-container {
+    margin-top: 2%;
+    height: auto;
+    width: 95vw;
+    padding: 5px;
+    bottom: 0;
+}
+
 /* ---------- Core Styling */
 
 .ttstyle {
@@ -67,6 +75,22 @@ h3 {
     font-size: 3vw;
     font-weight: bold;
     line-height: 1;
+}
+
+/* ---------- Footer */
+
+.footer-text {
+    color: #d4af37;
+    font-size: 3vw;
+    display: inline-block;
+    font-family: 'Lobster Two', cursive;
+}
+
+.footer-img {
+    height: auto;
+    width: 6vw;
+    padding: 0;
+    max-width: 13vw;
 }
 
 /* ------ NavBar ------ */
@@ -122,6 +146,17 @@ h3 {
 }
 
 @media screen and (min-width: 992px) {
+    .centered {
+        width: 60vw;
+        margin-top: 1%;
+    }
+    .header-container {
+        width: 80vw;
+        height: 8vh;
+    }
+    .footer-container {
+        width: 80vw;
+    }
     p {
         font-size: 1vw;
     }
@@ -136,13 +171,13 @@ h3 {
     }
     .header-img {
         height: auto;
-        width: 6vw;
+        width: 4vw;
     }
-    .centered {
-        width: 60vw;
-        margin-top: 1%;
+    .footer-img {
+        height: auto;
+        width: 4vw;
     }
-    .header-container {
-        width: 80vw;
+    .footer-text {
+        font-size: 2vw;
     }
 }
