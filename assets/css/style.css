@@ -48,6 +48,11 @@ body {
     border: 1px solid #d4af37;
 }
 
+.ttstyle-fade {
+    background-color: rgba(34, 116, 165, 0.75);
+    border: 1px solid #d4af37;
+}
+
 p {
     color: #ffffee;
     font-size: 2vw;
@@ -63,17 +68,18 @@ h1 {
     font-size: 5vw;
     color: #d4af37;
     line-height: 1;
+    font-weight: bold;
 }
 
 h2 {
     color: #d4af37;
     font-size: 4vw;
     line-height: 1;
+    font-weight: bold;
 }
 
 h3 {
     font-size: 3vw;
-    font-weight: bold;
     line-height: 1;
 }
 
