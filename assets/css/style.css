@@ -17,7 +17,6 @@ body {
 /* ---------- Positioning and sizing */
 
 .centered {
-    margin-top: 4%;
     height: auto;
     width: 70vw;
     padding: 5px;
@@ -35,10 +34,8 @@ body {
 
 .footer-container {
     margin-top: 2%;
-    height: auto;
     width: 95vw;
     padding: 5px;
-    bottom: 0;
 }
 
 /* ---------- Core Styling */
@@ -152,16 +149,13 @@ h3 {
 }
 
 @media screen and (min-width: 992px) {
-    .centered {
-        width: 60vw;
-        margin-top: 1%;
-    }
     .header-container {
         width: 80vw;
         height: 8vh;
     }
     .footer-container {
         width: 80vw;
+        height: 8vh;
     }
     p {
         font-size: 1vw;
