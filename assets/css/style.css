@@ -55,7 +55,7 @@ body {
 
 p {
     color: #ffffee;
-    font-size: 2vw;
+    font-size: 3vw;
     display: inline-block;
     font-family: Arvo, serif;
     text-overflow: ellipsis;
@@ -79,7 +79,7 @@ h2 {
 }
 
 h3 {
-    font-size: 3vw;
+    font-size: 4vw;
     line-height: 1;
 }
 
@@ -96,19 +96,23 @@ a:hover {
 
 .footer-text {
     color: #d4af37;
-    font-size: 3vw;
+    font-size: 2.5vw;
     display: inline-block;
     font-family: 'Lobster Two', cursive;
 }
 
 .footer-img {
     height: auto;
-    width: 6vw;
+    width: 7vw;
     padding: 0;
     max-width: 13vw;
     position: relative;
     bottom: 1vh;
     padding-right: 10px;
+}
+
+.social-icon {
+    padding: 5px;
 }
 
 /* ------ NavBar ------ */
