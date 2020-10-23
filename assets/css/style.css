@@ -33,9 +33,12 @@ body {
 }
 
 .footer-container {
-    margin-top: 2%;
+    margin: auto;
     width: 95vw;
     padding: 5px;
+    position: fixed;
+    bottom: 1vh;
+    left: 3vw;
 }
 
 /* ---------- Core Styling */
@@ -154,6 +157,7 @@ h3 {
     }
     .footer-container {
         width: 80vw;
+        left: 10vw;
     }
     p {
         font-size: 1vw;
