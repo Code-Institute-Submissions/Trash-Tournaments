@@ -28,6 +28,9 @@ ___
 - [**Features**](#features)
 
 - [**Deployment**](#deployment)
+
+- [**Citations**](#citations)
+  
   ___
 
 ## User Experience (UXD)
@@ -161,7 +164,7 @@ To keep with the intended consistent styling I have used the same two fonts from
 ### Design changes from project inception
 
 + Originally I was going to use the standard navbartoggler icon from BootStrap but decided to use a font awesome icon inside my span element of the button. Doesn't seem to affect my site as it stands, I used a trash can icon to build the brands presence.
-
+    + EDIT: I ended up designing a nav logo using the 3 lines of a conventional hamburger icon and have used this instead.
 ---
 
 ## Features
@@ -183,6 +186,8 @@ To achieve deployment I used this process:
 5. After the page refreshed I returned to the "Github Pages" section for the live link to the published site.
 
 The live link for the site is here: [https://joeyyscott.github.io/Trash-Tournaments/](https://joeyyscott.github.io/Trash-Tournaments/)
+
+## Citations
 
 #### [Back to top](#contents)
 

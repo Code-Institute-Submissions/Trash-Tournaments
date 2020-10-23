@@ -14,6 +14,11 @@ body {
     background-size: cover;
 }
 
+.blank-space {
+    display: inline-block;
+    height: 11vh;
+}
+
 /* ---------- Positioning and sizing */
 
 .centered {
@@ -112,7 +117,7 @@ a:hover {
 }
 
 .social-icon {
-    padding: 5px;
+    padding-right: 10px;
 }
 
 /* ------ NavBar ------ */
