@@ -83,6 +83,15 @@ h3 {
     line-height: 1;
 }
 
+a {
+    color: #d4af37;
+}
+
+a:hover {
+    color: #242045;
+    text-decoration: none;
+}
+
 /* ---------- Footer */
 
 .footer-text {
@@ -146,9 +155,6 @@ h3 {
     .h3 {
         font-size: 2vw;
     }
-    .navbar-dark .navbar-nav .nav-link {
-        font-size: 3vw;
-    }
 }
 
 @media screen and (min-width: 992px) {
@@ -170,6 +176,9 @@ h3 {
     }
     h3 {
         font-size: 2vw;
+    }
+    .navbar-dark .navbar-nav .nav-link {
+        font-size: 3vw;
     }
     .header-img {
         height: auto;
