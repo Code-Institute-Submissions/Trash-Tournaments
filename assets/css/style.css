@@ -27,12 +27,6 @@ body {
     padding: 5px;
 }
 
-.header-img {
-    height: auto;
-    width: 12vw;
-    padding: 0;
-}
-
 .header-container {
     width: 95vw;
 }
@@ -97,6 +91,14 @@ a:hover {
     text-decoration: none;
 }
 
+/* ---------- Header */
+
+.header-img {
+    height: auto;
+    width: 12vw;
+    padding: 0;
+}
+
 /* ---------- Footer */
 
 .footer-text {
@@ -120,7 +122,13 @@ a:hover {
     padding-right: 10px;
 }
 
-/* ------ NavBar ------ */
+/* ---------- About Page */
+
+.principle-text {
+    padding-bottom: 10px;
+}
+
+/* ---------- NavBar */
 
 .navbar .navbar-toggler {
     border: none;
@@ -202,6 +210,9 @@ a:hover {
         bottom: 3vh;
     }
     .footer-text {
-        font-size: 2vw;
+        font-size: 1.5vw;
+    }
+    .principle-text {
+        font-size: 0.70vw;
     }
 }
