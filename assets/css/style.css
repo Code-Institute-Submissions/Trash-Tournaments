@@ -23,7 +23,7 @@ body {
 
 .centered {
     height: auto;
-    width: 70vw;
+    width: 75vw;
     padding: 5px;
 }
 
@@ -146,6 +146,40 @@ a:hover {
     font-weight: bold;
 }
 
+/* Tournaments Page */
+
+.tournament-item {
+    padding: 1em 0em 1em 1em;
+    position: relative;
+    color: #ffffee;
+    border-left: 1px solid #d4af37;
+    text-align: left;
+}
+
+.tournament-item:before {
+    content: attr(data-dates);
+    position: absolute;
+    top: -0.5vh;
+    display: block;
+    font-family: "Arvo", serif;
+}
+
+.tournament-item:after {
+    width: 12px;
+    height: 12px;
+    border-radius: 12px;
+    display: block;
+    top: 0;
+    position: absolute;
+    left: -6px;
+    content: '';
+    background: #d4af37;
+}
+
+.tournaments-timeline {
+    margin-top: 10px;
+}
+
 /* ---------- NavBar */
 
 .navbar .navbar-toggler {
@@ -240,3 +274,6 @@ a:hover {
     font-size: 0.75vw;
     }
 }
+
+/* ---------- Testing */
+
