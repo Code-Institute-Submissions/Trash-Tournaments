@@ -100,6 +100,14 @@ a:hover {
     padding: 0;
 }
 
+.menu-notice {
+    position: relative;
+    left: 25vw;
+    margin: auto;
+    color: #d4af37;
+    font-size: 8vw;
+}
+
 /* ---------- Footer */
 
 .footer-text {
