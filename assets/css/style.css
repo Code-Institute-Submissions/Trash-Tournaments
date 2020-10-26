@@ -72,8 +72,8 @@ h1 {
 }
 
 h2 {
-    color: #d4af37;
     font-size: 4vw;
+    color: #d4af37;
     line-height: 1;
     font-weight: bold;
 }
@@ -149,17 +149,18 @@ a:hover {
 /* Tournaments Page */
 
 .tournament-item {
-    padding: 1em 0em 1em 1em;
+    padding: 0 0 1vh 1em;
     position: relative;
     color: #ffffee;
     border-left: 1px solid #d4af37;
     text-align: left;
+    bottom: 3vh;
+    font-size: 3vw;
 }
 
 .tournament-item:before {
     content: attr(data-dates);
-    position: absolute;
-    top: -0.5vh;
+    position: relative;
     display: block;
     font-family: "Arvo", serif;
 }
@@ -177,7 +178,8 @@ a:hover {
 }
 
 .tournaments-timeline {
-    margin-top: 10px;
+    margin-top: 4vh;
+    margin-bottom: -3vh;
 }
 
 /* ---------- NavBar */
@@ -224,8 +226,8 @@ a:hover {
     h2 {
         font-size: 3vw;
     }
-    .h3 {
-        font-size: 2vw;
+    h3 {
+        font-size: 2.5vw;
     }
 }
 
@@ -237,20 +239,20 @@ a:hover {
         width: 80vw;
         left: 10vw;
     }
-    p {
+    p, .feedback-text, .tournament-item {
         font-size: 0.75vw;
     }
-    h1 {
-        font-size: 1.5vw;
-    }
-    h2 {
-        font-size: 1.5vw;
-    }
-    h3 {
+    h1, h2, h3, .footer-text {
         font-size: 1.5vw;
     }
     .navbar-dark .navbar-nav .nav-link {
         font-size: 3vw;
+    }
+    .principle-text {
+        font-size: 0.70vw;
+    }
+    .rank-icon {
+        width: 2vw;
     }
     .header-img {
         height: auto;
@@ -260,18 +262,6 @@ a:hover {
         height: auto;
         width: 4vw;
         bottom: 3vh;
-    }
-    .footer-text {
-        font-size: 1.5vw;
-    }
-    .principle-text {
-        font-size: 0.70vw;
-    }
-    .rank-icon {
-        width: 2vw;
-    }
-    .feedback-text {
-    font-size: 0.75vw;
     }
 }
 
