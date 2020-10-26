@@ -120,7 +120,6 @@ a:hover {
 .footer-img {
     height: auto;
     width: 7vw;
-    padding: 0;
     max-width: 13vw;
     position: relative;
     bottom: 1vh;
@@ -192,6 +191,10 @@ a:hover {
     width: 4vw;
 }
 
+.highlight {
+    display: inline;
+    color: #d4af37;
+}
 
 /* ---------- NavBar */
 
