@@ -188,6 +188,11 @@ a:hover {
     font-family: Arvo, serif;
 }
 
+.signup-logo {
+    width: 4vw;
+}
+
+
 /* ---------- NavBar */
 
 .navbar .navbar-toggler {
@@ -271,6 +276,9 @@ a:hover {
     }
     .signup-guide {
         font-size: 1.25vw;
+    }
+    .signup-logo {
+        width: 2vw;
     }
 }
 
