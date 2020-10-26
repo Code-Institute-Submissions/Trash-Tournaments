@@ -140,7 +140,7 @@ a:hover {
     width: 6vw;
 }
 
-.feedback-user, .blockquote-footer {
+.feedback-user, {
     color: #d4af37;
     font-weight: bold;
 }
@@ -194,6 +194,12 @@ a:hover {
 .highlight {
     display: inline;
     color: #d4af37;
+}
+
+/* ---------- FAQ/Contact page */
+
+.faq-question, .faq-answer {
+    margin-bottom: 1vh;
 }
 
 /* ---------- NavBar */
