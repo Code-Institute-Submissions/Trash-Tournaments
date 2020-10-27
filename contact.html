@@ -56,20 +56,22 @@
                     <h3>To contact us, fill out the form below and we'll get back to you as soon as we can. Sit tight and play Rocket League!</h3>
                     <form class="query-form ttstyle">
                         <div class="form-group">
-                            <label for="name">Name</label>
-                            <input type="text" class="form-control form-control-sm" id="name" aria-describedby="namehelp" placeholder="Your name">
+                            <label class="highlight labels" for="name">Name</label>
+                            <input type="text" class="form-control form-control-sm" id="name" aria-describedby="namehelp" placeholder="Your name" required>
                             <small id="namemsg" class="form-text">Any name you choose. (real name, ingame name, discord name, etc)</small>
                         </div>
                         <div class="form-group">
-                            <label for="email">Email address</label>
-                            <input type="email" class="form-control form-control-sm" id="email" aria-describedby="emailhelp" placeholder="Your email">
+                            <label class="highlight" for="email">Email address</label>
+                            <input type="email" class="form-control form-control-sm" id="email" aria-describedby="emailhelp" placeholder="Your email" required>
                             <small id="emailmsg" class="form-text">We won't share your email with anyone else.</small>
                         </div>
                         <div class="form-group">
-                            <label for="query">Message Query</label>
-                            <textarea class="form-control form-control-sm" id="query" rows="4"></textarea>
+                            <label class="highlight" for="query">Message Query</label>
+                            <textarea class="form-control form-control-sm" id="query" rows="4" placeholder="Your message" required></textarea>
                         </div>
-                        <button type="submit" class="ttstyle btn-sm contact-btn">Submit query</button>
+                        <div class="form-group">
+                            <button type="submit" class="ttstyle btn-sm contact-btn">Submit query</button>
+                        </div>
                     </form>
                 </div>
             </div>

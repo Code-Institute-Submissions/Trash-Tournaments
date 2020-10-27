@@ -53,6 +53,11 @@ body {
     border: 1px solid #d4af37;
 }
 
+.highlight {
+    display: inline;
+    color: #d4af37;
+}
+
 p {
     color: #ffffee;
     font-size: 3vw;
@@ -177,8 +182,7 @@ a:hover {
 }
 
 .tournaments-timeline {
-    margin-top: 4vh;
-    margin-bottom: -3vh;
+    margin: 4vh 0 -3vh;
 }
 
 .signup-guide {
@@ -189,11 +193,6 @@ a:hover {
 
 .signup-logo {
     width: 4vw;
-}
-
-.highlight {
-    display: inline;
-    color: #d4af37;
 }
 
 /* ---------- FAQ/Contact page */
@@ -212,12 +211,23 @@ a:hover {
     border-color: #242045;
 }
 
-.form-group {
-    padding: 0 1vw;
+.query-form {
+    margin: 1vh auto;
+    width: 70%;
+    text-align: left;
 }
 
-.query-form {
-    margin-bottom: 1vh;
+.form-group {
+    margin: 0 auto;
+    width: 92%;
+}
+
+.form-text {
+    font-size: 3vw;
+}
+
+label {
+    font-size: 4vw;
 }
 
 /* ---------- NavBar */
@@ -255,7 +265,7 @@ a:hover {
 /* --------- Media queries */
 
 @media screen and (min-width: 768px) {
-    p {
+    p, .form-text {
         font-size: 2vw;
     }
     h1 {
@@ -264,7 +274,7 @@ a:hover {
     h2 {
         font-size: 3vw;
     }
-    h3 {
+    h3, label {
         font-size: 2.5vw;
     }
 }
@@ -277,10 +287,10 @@ a:hover {
         width: 80vw;
         left: 10vw;
     }
-    p, .feedback-text, .tournament-item {
+    p, .feedback-text, .tournament-item, .form-text {
         font-size: 0.75vw;
     }
-    h1, h2, h3, .footer-text {
+    h1, h2, h3, .footer-text, label {
         font-size: 1.5vw;
     }
     .navbar-dark .navbar-nav .nav-link {

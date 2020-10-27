@@ -29,6 +29,8 @@ ___
 
 - [**Deployment**](#deployment)
 
+- [**Commits**](#commits)
+
 - [**Citations**](#citations)
   
   ___
@@ -186,6 +188,8 @@ To achieve deployment I used this process:
 5. After the page refreshed I returned to the "Github Pages" section for the live link to the published site.
 
 The live link for the site is here: [https://joeyyscott.github.io/Trash-Tournaments/](https://joeyyscott.github.io/Trash-Tournaments/)
+
+## Commits
 
 ## Citations
 
