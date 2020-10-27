@@ -202,6 +202,24 @@ a:hover {
     margin-bottom: 1vh;
 }
 
+.contact-btn {
+    color: #d4af37;
+    margin: 1vh 0;
+}
+
+.contact-btn:hover {
+    color: #242045;
+    border-color: #242045;
+}
+
+.form-group {
+    padding: 0 1vw;
+}
+
+.query-form {
+    margin-bottom: 1vh;
+}
+
 /* ---------- NavBar */
 
 .navbar .navbar-toggler {

@@ -191,7 +191,7 @@ The live link for the site is here: [https://joeyyscott.github.io/Trash-Tourname
 
 This section includes all areas/sections of code and properties I was unaware of. I've also included citations from where I've adapted/changed code used in the projects throughout my course as figured it was better practice to state as such to avoid any penalizations or copyright violations.
 
-+ The timeline used in tournaments page is an adapted version of the timeline used in Code Institutes mini project for Rosies Resume. I've never coded this feature before but felt it would make an effective way to display the tournaments information.
++ Tournaments page / CSS - The timeline used in tournaments page is an adapted version of the timeline used in Code Institutes mini project for Rosies Resume. I've never coded this feature before but felt it would make an effective way to display the tournaments information.
 
 #### [Back to top](#contents)
 
