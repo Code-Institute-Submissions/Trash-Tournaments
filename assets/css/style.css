@@ -280,16 +280,33 @@ label {
 
 .modal-title {
     margin: auto;
+    font-size: 130%;
 }
 
 .modal-text {
     padding: 1vh 0;
 }
 
+.modal-content {
+    width: 80%;
+    margin: 3vh auto;
+}
+
+.modal-header {
+    border-bottom: 1px solid #d4af37;
+}
+
+.modal-footer {
+    border-top: 1px solid #d4af37;
+    text-align: center;
+}
+
 .close {
     color: #d4af37;
     text-shadow: none;
     opacity: 1;
+    text-align: center;
+    margin: 0 auto;
 }
 
 .close:hover {
@@ -350,6 +367,9 @@ label {
     }
     .signup-logo {
         width: 2vw;
+    }
+    .modal-content {
+        width: 100%;
     }
 }
 
