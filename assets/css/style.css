@@ -278,6 +278,16 @@ label {
     margin: auto;
 }
 
+.close {
+    color: #d4af37;
+    text-shadow: none;
+    opacity: 1;
+}
+
+.close:hover {
+    color: #242045;
+}
+
 /* --------- Media queries */
 
 @media screen and (max-width: 319px) {
