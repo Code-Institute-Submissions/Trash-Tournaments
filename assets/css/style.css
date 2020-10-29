@@ -120,14 +120,13 @@ a:hover {
     font-size: 2.5vw;
     display: inline-block;
     font-family: 'Lobster Two', cursive;
+    vertical-align: middle;
 }
 
 .footer-img {
     height: auto;
     width: 7vw;
     max-width: 13vw;
-    position: relative;
-    bottom: 1vh;
     padding-right: 10px;
 }
 
@@ -145,7 +144,7 @@ a:hover {
     width: 6vw;
 }
 
-.feedback-user, {
+.feedback-user {
     color: #d4af37;
     font-weight: bold;
 }
@@ -264,6 +263,12 @@ label {
 
 /* --------- Media queries */
 
+@media screen and (max-width: 319px) {
+    .footer-img {
+        display: none;
+    }
+}
+
 @media screen and (min-width: 768px) {
     p, .form-text {
         font-size: 2vw;
@@ -302,14 +307,8 @@ label {
     .rank-icon {
         width: 2vw;
     }
-    .header-img {
-        height: auto;
-        width: 4vw;
-    }
-    .footer-img {
-        height: auto;
-        width: 4vw;
-        bottom: 3vh;
+    .header-img, .footer-img {
+        width: 5vw;
     }
     .signup-guide {
         font-size: 1.25vw;
