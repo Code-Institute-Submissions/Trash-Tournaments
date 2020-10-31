@@ -213,16 +213,6 @@ a:hover {
     margin-bottom: 1vh;
 }
 
-.contact-btn {
-    color: #d4af37;
-    margin: 1vh 0;
-}
-
-.contact-btn:hover {
-    color: #242045;
-    border-color: #242045;
-}
-
 .query-form {
     margin: 1vh auto;
     width: 70%;
@@ -240,6 +230,29 @@ a:hover {
 
 label {
     font-size: 4vw;
+}
+
+/* ---------- Buttons */
+
+.contact-btn {
+    color: #d4af37;
+    margin: 1vh 0;
+}
+
+.contact-btn:hover {
+    color: #242045;
+    border-color: #242045;
+}
+
+.index-btn {
+    color: #d4af37;
+    margin: 1vh auto;
+    font-size: 4vw;
+}
+
+.index-btn:hover {
+    color: #242045;
+    border-color: #242045;
 }
 
 /* ---------- NavBar */
@@ -381,7 +394,7 @@ label {
     .modal-title {
         font-size: 2.25vw;
     }
-    .modal-text {
+    .modal-text, .index-btn {
         font-size: 1vw;
     }
 }
