@@ -184,6 +184,21 @@ To keep with the intended consistent styling I have used the same two fonts from
 
 ---
 
+## Technologies
+
++ HTML - Used as the main language for structuring the website.
++ CSS - Used as the main language for styling the website.
++ [Bootstrap](https://getbootstrap.com/) - The Bootstrap framework is being used to style, organize and position content using the grid system. It also handles the JavaScript for the user profiles modal.
++ [Google Fonts](https://fonts.google.com/) - I used two fonts from the Google fonts library; "Lobster Two" and "Arvo".
++ [Font Awesome](https://fontawesome.com/) - I used the Font Awesome icon library to provide icons for my mobile nav menu, my overview headings and my footer links. 
++ [GitPod](https://gitpod.io) - GitPod was the online IDE (Integrated Development Engine) I used to develop this site.
++ [Git](https://git-scm.com) - Git is an open source version control system where you can commit changes to the associated Github repository and push changes to Github pages.
++ [coolors.co](coolors.co) - I used this tool to generate a colour scheme based on the two colours I had.
++ [Colorhexa](https://www.colorhexa.com/) - I used this tool to give me the RGB values of my light blue colour for the ttstyle-fade class.
++ [GIMP](https://www.gimp.org) - I used this program to design the navigation menu and footer icons.
+
+---
+
 ## Deployment
 
 ### Deploying to Github pages
@@ -326,6 +341,8 @@ This section contains extra notes about my commits. You can view a full list of 
   <summary>November 4th 2020</summary>
 
 + [ADD] Added notes from previous commits to README.md and added citation for about.html player feedback section.
++ [DOCS] Added existing/future features to README.md
++ [DOCS] Added technologies section to README.md
 
 </details>
 
