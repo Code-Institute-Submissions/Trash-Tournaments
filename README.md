@@ -191,11 +191,141 @@ The live link for the site is here: [https://joeyyscott.github.io/Trash-Tourname
 
 ## Commits
 
+This section contains extra notes about my commits. You can view a full list of commits and code changes [here](https://github.com/JoeyyScott/Trash-Tournaments/commits/master).
+<details>
+  <summary>October 19th 2020</summary>
+
++ [INITIAL] Laid out boiler plate code for index.html and formatted my user experience document into my README.md.
++ [UPDATE] Added wireframes to README.md and added css code for background image.
++ [FIX] After asking in Code Institutes slack server, the problem was identified as a bad css linking in my html. I had a / where I shouldn't so it was searching above the current folder.
++ [ADD] Added intro section to index.html and styling rules for p, h1, h2 and .sub-header (To be used throughout the site) - EDIT: sub-header changed to h3
++ [STYLES] Added a .centered class to fix my elements to a specific viewport width to allow for easy styling and .ttstyle to apply background colour and borders to selected content.
+</details>
+
+<details>
+  <summary>October 20th 2020</summary>
+
++ [ADD] Live version link added to README.md, media queries for p, h1, h2, .sub-header and .centered to scale down for larger devices as I'm using viewport width.
++ [ADD] I used a navbar-dark from bootstrap but applied my own styling. I aligned my text to the right and changed the colours for the links including the active/hover states.
++ [UPDATE] Changed bootstraps default nav icon to a font awesome icon. Added a styling rule to control colour and font size.
+
+</details>
+
+<details>
+  <summary>October 21st 2020</summary>
+
++ [UPDATE] Added design changes section to README.md, nav brand image to navbar, .header-img styling rule to regular css and media queries and some scaling changes for navbar links.
++ [ADD] Adjusting some general scaling and added subheaders into their own bootstrap columns to make them visually more appealing.
++ [UPDATE] Updated .sub-header class to use h3 tags instead. Altered both in html/css.
++ [ADD] Added overview section to index.html. This includes 4 sub sections made using the bootstrap grid system and using my previous style rules.
++ [FIX] Centered nav menu so when expanded it fits in with the page style.
++ [UPDATE] Updated nav icon to a TT styled Trash Can with the 3 horizontal lines to keep with conventions.
+
+</details>
+
+<details>
+  <summary>October 22nd 2020</summary>
+
++ [UPDATE] Altered scaling sizes for large devices and added a .header-container rule. Also removed unnecessary code in overview section.
++ [ADD] Added a footer consisting of 3 col-4 classes and links to contact page, discord invite and related social medias. Added 3 styling rules called .footer-container, .footer-text and .footer-img to scale content across all devices.
++ [STYLES] Added a .ttstyle-fade class to allow the background image to be partially seen through main content. Bolded headers also.
++ [UPDATE] Updated footer scaling in CSS and removed .centered in large devices media query.
++ [REMOVE] Removed height values from header and footer container classes.
+
+</details>
+
+<details>
+  <summary>October 23rd 2020</summary>
+
++ [UPDATE] Updated footer to use auto margins and a fixed position with left indents to center across devices.
++ [ADD] Added font awesome icons to navbar/overview and added links to overview icons.
++ [ADD] Added font awesome icons with links to footer sections to keep with the overall theme. (Stuck, Discord, Social; instagram, linkedin, contact)
++ [FIX] Reduced footer content sizes and added 5px padding to icons also made p and h3 1vw smaller to allow easier content spread across devices.
++ [ADD] Added blank space below content to allow for scrolling space on smaller devices. Changed social icon padding to only be right side to not push content too far apart.
+
+</details>
+
+<details>
+  <summary>October 24th 2020</summary>
+
++ [ADD] Added about page using structure from index.html and added in content for the community principles section. Also reordered CSS in a better manner.
++ [ADD] Add player feedback section on about page from an adapted Whiskey Drop example quotes section and styling rule for rank icon. Check [**citations**](#citations) for more info.
+
+</details>
+
+<details>
+  <summary>October 25th 2020</summary>
+
++ [REMOVE] Removed "review-image" and "d-none d-sm-block" classes from rank icons as the images are visible easily on small devices and look better next to the feedback users name instead of on a new line. Also slightly changed scaling for p, h1, h2 and h3 to make content fit easier on large devices.
++ [UPDATE] Updated navbar icon to have "menu" text shown next to it (with a style rule) for intuitive design and blocked on large devices.
++ [UPDATE] Updated footer to use twitter, youtube and instagram as these socials fit the brand of the site more. Previously there could have been confusion by having contact in two footer sections.
++ [ADD] Added basis for tournaments page using structure from index.html and added in headings for tournaments information and sign up guide.
++ [ADD] Added basis for contact page using structure from index.html and added in headings for FAQs and contact us.
++ [ADD] Added timeline to tournaments page. Also added citations section to README.md as this is an adapted version of the work history timeline from Rosie's Resume project. Check [**citations**](#citations) for more info.
+
+</details>
+
+<details>
+  <summary>October 26th 2020</summary>
+
++ [UPDATE] Updated padding, margins and positioning of timeline section and condensed code by removing rules with duplicate properties.
++ [ADD] Added signup guide using an ordered list for the step by step instructions. Added a .signup-guide class to style it.
++ [ADD] Added logo image to sign up guide to make it more user friendly and assoicated scaling rule.
++ [UPDATE] Added .highlight class and updated sign up guide to use the class to highlight the pertinent pieces of information.
++ [REMOVE] Removed unnecessary review-body class from feedback section and blockquote-footer from css as I'm no longer using it.
++ [ADD] Added in 4 FAQS on contact.html and .faq-question and .faq-answer classes to style it. Also added target="_blank" to the links missing it.
+
+</details>
+
+<details>
+  <summary>October 27th 2020</summary>
+
++ [ADD] Added form groups for name, email, message and submit on contact.html. Added contact-btn and associated hover class to style the button as my links are styled and form-group/query-form to style the form areas.
++ [STYLES] Added form-text and label (updated with highlight class) to scaling rules. Added required class to name/email for form verification.
+
+</details>
+
+<details>
+  <summary>October 29th 2020</summary>
+
++ [FIX] I had my footer image set to relative from a past testing attempt to style it which was causing positioning issues on some screen sizes.
++ [ADD] Added modal with base information to test. Added modal container, banner and title classes to style (in media queries too).
++ [UPDATE] Updated close and close:hover class on modal button to be consistent with the sites design.
++ [UPDATE] Updated text content in modal, h3/p classes and gave padding to modal-text. 
++ [ADD] Added more content to modal and updated styles to make modal 80% of width unless on large devices.
++ [UPDATE] Updated navbar to expand on medium devices as the nav menu isn't too big to do this and updated menu text with the same display class.
+
+</details>
+
+<details>
+  <summary>October 30th 2020</summary>
+
++ [UPDATE] Changed .modal-container class to show beneath the header and applied z-index: 1; to .header-container to ensure the header stays on top.
++ [ADD] Added modal banner and content to the other 3 pages.
+
+</details>
+
+<details>
+  <summary>October 31st 2020</summary>
+
++ [ADD] Added button to index.html to expand overview section so the user isn't overloaded with information upon page load.
++ [FIX] Removed max-height property (previous testing) from footer-container as it was causing the footer to be smaller than the content in some cases.
+
+</details>
+
+<details>
+  <summary>November 4th 2020</summary>
+
++ [ADD] Added notes from previous commits to README.md and added citation for about.html player feedback section.
+
+</details>
+
 ## Citations
 
 This section includes all areas/sections of code and properties I was unaware of. I've also included citations from where I've adapted/changed code used in the projects throughout my course as figured it was better practice to state as such to avoid any penalizations or copyright violations.
 
 + Tournaments page / CSS - The timeline used in tournaments page is an adapted version of the timeline used in Code Institutes mini project for Rosies Resume. I've never coded this feature before but felt it would make an effective way to display the tournaments information.
++ Player Feedback / html/CSS - I wanted to use the quotes section from Whiskey Drop project and ended up adapting my code to my needs. I wanted to display information from players in this way but further along the development process I made the decision to show images on all devices and on the same line but thought it best to include this in my citations.
 
 #### [Back to top](#contents)
 
