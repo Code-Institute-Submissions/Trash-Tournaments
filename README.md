@@ -171,7 +171,16 @@ To keep with the intended consistent styling I have used the same two fonts from
 
 ## Features
 
-To be added.
+### Existing Features
+
+- **Contact Form** - Can be filled out on contact.html and submitted to contact the discord owners. (Currently due to no JavaScript the form cannot store or send data.)
+- **Responsive navigation menu** - User can access all links within the menu across all screen allowing easy site navigation.
+- **User profiles modal** - Call to action modal can be activated from any page which brings up information about user profiles and a way to close the interface.
+
+### Features to be added
+
+- User profiles - This would require a signup page, user accounts and a way to faciliate this process.
+- User posted feedback - From speaking to users in my UX design section being able to add their own feedback is a favourable feature. (This would also require user profiles)
 
 ---
 
