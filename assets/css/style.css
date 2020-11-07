@@ -117,6 +117,12 @@ a:hover {
     padding: 0;
 }
 
+.header-title {
+    display: inline-block;
+    position: absolute;
+    top: 1.5vh;
+}
+
 .menu-notice {
     position: relative;
     left: 25vw;
@@ -271,6 +277,8 @@ label {
 .navbar-nav {
     text-align: right;
     margin: auto;
+    position: relative;
+    /* top: 2vh; */
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -353,6 +361,9 @@ label {
     .navbar-dark .navbar-nav .nav-link {
         font-size: 4vw;
     }
+    .navbar-nav {
+        top: 3.5vh;
+    }
 }
 
 @media screen and (min-width: 992px) {
@@ -396,7 +407,10 @@ label {
     .modal-text, .index-btn {
         font-size: 1vw;
     }
+    .navbar-nav {
+        left: 3.5vh;
+        top: 0;
+    }    
 }
 
 /* ---------- Testing */
-

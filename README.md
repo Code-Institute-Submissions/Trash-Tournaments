@@ -368,6 +368,7 @@ This section contains extra notes about my commits. You can view a full list of 
 + [FIX] Added technologies to README.md contents.
 + [DOCS] Added project inception section to deployment.
 + [DOCS] Split technlogies into languages/frameworks, libraries and programs.
++ [ADD] Added header title to all pages to clearly show the brands name and motto.
 
 </details>
 
