@@ -27,6 +27,8 @@ ___
 
 - [**Features**](#features)
 
+- [**Technologies**](#technologies)
+
 - [**Deployment**](#deployment)
 
 - [**Commits**](#commits)
@@ -343,6 +345,13 @@ This section contains extra notes about my commits. You can view a full list of 
 + [ADD] Added notes from previous commits to README.md and added citation for about.html player feedback section.
 + [DOCS] Added existing/future features to README.md
 + [DOCS] Added technologies section to README.md
+
+</details>
+
+<details>
+  <summary>November 7th 2020</summary>
+
++ [FIX] Added technologies to README.md contents.
 
 </details>
 
