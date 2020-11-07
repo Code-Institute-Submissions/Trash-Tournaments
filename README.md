@@ -21,7 +21,7 @@ ___
   - Design Decisions from UXD
     - Colour Scheme
     - Typograhpy
-    - Imagery
+    - Images
   - Wireframes
   - Design Changes
 
@@ -203,6 +203,17 @@ To keep with the intended consistent styling I have used the same two fonts from
 
 ## Deployment
 
+### Project Inception
+
+1. This project was created using [GitHub](https://github.com) and Code Institutes project template [here](https://github.com/Code-Institute-Org/gitpod-full-template) by clicking "Use this template".
+2. I named this project "Trash Tournaments" as it is the name of the discord being advertised.
+3. Once the repository had been created I clicked the "Gitpod" button which is a firefox extension that creates a workspace within GitPod which is where I coded the project.
+4. Following Code Institutes lessons the 4 main commands I used were;
+    + git status (which allows me to check which files have been modified and if any are ready to be committed)
+    + git add . (which adds all changed files within my projects directory to be committed)
+    + git commit -m "[TYPE] Reason" (which commits all changes to my project using a category prefix and a specific reason for that commit)
+    + git push (this command pushes all committed changes to the live version of my site on Github Pages)
+
 ### Deploying to Github pages
 
 To achieve deployment I used this process:
@@ -352,6 +363,7 @@ This section contains extra notes about my commits. You can view a full list of 
   <summary>November 7th 2020</summary>
 
 + [FIX] Added technologies to README.md contents.
++ [DOCS] Added project inception section to deployment.
 
 </details>
 
