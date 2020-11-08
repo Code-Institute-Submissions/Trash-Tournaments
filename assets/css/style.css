@@ -123,6 +123,10 @@ a:hover {
     top: 1.5vh;
 }
 
+.header-title h1 {
+    margin: 0;
+}
+
 .menu-notice {
     position: relative;
     left: 25vw;
@@ -278,7 +282,6 @@ label {
     text-align: right;
     margin: auto;
     position: relative;
-    /* top: 2vh; */
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -362,11 +365,11 @@ label {
         font-size: 4vw;
     }
     .navbar-nav {
-        top: 3.5vh;
+        top: 2.85vh;
     }
 }
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 992px)  and (orientation: landscape) {
     .header-container {
         width: 80vw;
     }
@@ -410,6 +413,9 @@ label {
     .navbar-nav {
         left: 3.5vh;
         top: 0;
+    }
+    .header-title {
+        margin-top: 1.5vh;
     }    
 }
 

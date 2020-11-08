@@ -378,6 +378,7 @@ This section contains extra notes about my commits. You can view a full list of 
 + [REMOVE] Removed unnecessary section tags around blank space span.
 + [UPDATE] Updated index-btn text to more accurately show its purpose and included a direction to the user at the end of the intro paragraph.
 + [UPDATE] Updated collapsed overview content to an appropriate ID and reordered footer class names to match headers.
++ [FIX] Fixed some margins/positioning with the .header-title and .navbar-nav classes which allows for a more responsive navbar across devices.
 
 </details>
 
