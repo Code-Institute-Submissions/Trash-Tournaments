@@ -376,6 +376,7 @@ This section contains extra notes about my commits. You can view a full list of 
   <summary>November 8th 2020</summary>
 
 + [REMOVE] Removed unnecessary section tags around blank space span.
++ [UPDATE] Updated index-btn text to more accurately show its purpose and included a direction to the user at the end of the intro paragraph.
 
 </details>
 
