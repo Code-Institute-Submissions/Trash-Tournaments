@@ -372,6 +372,13 @@ This section contains extra notes about my commits. You can view a full list of 
 
 </details>
 
+<details>
+  <summary>November 8th 2020</summary>
+
++ [REMOVE] Removed unnecessary section tags around blank space span.
+
+</details>
+
 ## Citations
 
 This section includes all areas/sections of code and properties I was unaware of. I've also included citations from where I've adapted/changed code used in the projects throughout my course as figured it was better practice to state as such to avoid any penalizations or copyright violations.
