@@ -10,7 +10,7 @@ ___
 
 ## Contents
 
-- [**User Experience Design (UXD)**](<#user-experience-(uxd)>)
+- [**User Experience Design (UXD)**](<#user-experience-design-(uxd)>)
 
   - Project Goals
   - Content Requirements
@@ -35,7 +35,7 @@ ___
   
   ___
 
-## User Experience (UXD)
+## User Experience Design (UXD)
 
 ### Project Goals
 
@@ -172,16 +172,49 @@ To keep with the intended consistent styling I have used the same two fonts from
 
 ## Features
 
-### Existing Features
++ ### Existing Features
 
-- **Contact Form** - Can be filled out on contact.html and submitted to contact the discord owners. (Currently due to no JavaScript the form cannot store or send data.)
-- **Responsive navigation menu** - User can access all links within the menu across all screen allowing easy site navigation.
-- **User profiles modal** - Call to action modal can be activated from any page which brings up information about user profiles and a way to close the interface.
+    The header, footer and modal remain the same across pages to maintain a consistent style.
 
-### Features to be added
+    Included in the **header** is: 
 
-- User profiles - This would require a signup page, user accounts and a way to faciliate this process.
-- User posted feedback - From speaking to users in my UX design section being able to add their own feedback is a favourable feature. (This would also require user profiles)
+    + **Brand name and motto**: Allows for easy remembering of brand and motto by potential users which also provides a link to the homepage.
+    + **Navigation Bar**: Fully responsive nav bar will expand outside of smaller devices and overall provides a user friendly and intuitive browsing experience.
+
+    Included in the **footer** is:
+
+    + **Contact button**: which redirects the user to the contact page. This provides a way across all pages and screen sizes to get in touch with the owners.
+    + **Discord invite link**: which will open in a new tab and providing the main link the user will need to get involved in the community, placed in the center for this reason.
+    + **Social media links**: which will take you to the various social media connnections for the discord. (These are are all links to the homepage as the associated socials don't exist at this point in time)
+
+    Included in the **modal** is:
+
+    + **User profiles modal**: Call to action modal can be activated from any page which brings up information about user profiles and a way to close the interface.
+
+    Included in the **index.html** page is:
+
+    + **Introduction paragraph**: a brief introduction to the website and what the community is about and a prompt to expand the information below.
+    + **Overview section**: Showcases everything that you can do within the website and provides links to every page. This section is hidden upon page load to not overload the user with information.
+
+    Included in the **about.html** page is:
+
+    + **Community principles**: Contains the 4 major areas (with assoicated icons for intuitive browsing) of what the community is about and why you would want to be a part of it.
+    + **Player Feedback**: Contains reviews from current active players from the community. It also displays their rank for providing context to a potential user reading.
+
+    Included in the **tournaments.html** page is:
+
+    + **Tournaments Timeline**: Provides information such as date, time and description for the upcoming tournaments within the community which allows a user to see ahead of time what they might be interested in.
+    + **Sign Up Guide**: Provides step by step instructions on how to get involved with the community including links to help them create and set up a discord account.
+
+    Included in the **contact.html** page is:
+
+    + **FAQs**: Includes the most commonly asked questions to aid users who may experience difficulty.
+    + **Contact Form**: - Can be filled out with a name, email and message query (with associated validation) and submitted to contact the discord owners. (Currently due to no JavaScript the form cannot store or send data.)
+
++ ### Features to be added
+
+    + **User profiles**: This would require a signup page, user accounts and a way to faciliate this process.
+    + **User posted feedback**: From speaking to users in my UX design section being able to add their own feedback is a favourable feature. (This would also require user profiles)
 
 ---
 
