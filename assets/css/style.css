@@ -405,7 +405,7 @@ label {
     .modal-content {
         width: 100%;
     }
-    .modal-title {
+    .modal-title, .intro-header {
         font-size: 2.25vw;
     }
     .modal-text {
@@ -417,7 +417,10 @@ label {
     }
     .header-title {
         margin-top: 1.5vh;
-    }    
+    }
+    .intro-subheader {
+        font-size: 1.75vw;
+    }
 }
 
 /* ---------- Testing */
