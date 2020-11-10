@@ -84,27 +84,29 @@ D. User profiles | 1 | 2
 E. Promote discords purpose/welcoming environment | 5 | 5
 F. User posted testimonials | 1 | 2
 
-### First Time User Goals
+### User stories
 
-+ As a **first time user** I want to be able navigate through the whole site smoothly.
-+ As a **first time user** I want to understand the purpose of the site upon loading it.
-+ As a **first time user** I want to be able to easily view information about the discord on any screen size.
-+ As a **first time user** I want to easily be able to find a community to play rocket league with.
-+ As a **first time user** I want to find out if other people have had experience with this website/discord.
-+ As a **first time user** I want to find information about upcoming tournaments
-+ As a **first time user** I want to be able to contact the site owners for more information
+- #### First Time Visitor Goals
 
-### Site Owner Goals
+    + As a **first time user** I want to be able navigate through the whole site smoothly.
+    + As a **first time user** I want to understand the purpose of the site upon loading it.
+    + As a **first time user** I want to be able to easily view information about the discord on any screen size.
+    + As a **first time user** I want to easily be able to find a community to play rocket league with.
+    + As a **first time user** I want to find out if other people have had experience with this website/discord.
+    + As a **first time user** I want to find information about upcoming tournaments
+    + As a **first time user** I want to be able to contact the site owners for more information
 
-+ As a **site owner** I want the landing page (index.html) to clearly provide all information needed about the sites purpose and what is available.
-+ As a **site owner** I want any user to receive the correct information for the viewport they’re currently on.
-+ As a **site owner** I want users to clearly see there are people willing to play with and help them improve at rocket league.
-+ As a **site owner** I want an organized, intuitive navigation system across all pages.
-+ As a **site owner** I want users to see input from people who’ve participated and their respective ranks.
-+ As a **site owner** I want to include information of upcoming tournaments with conversions for major time zones.
-+ As a **site owner** I want any user to be able to easily contact me with their details and query for more information.
+    - #### Site Owner Goals
 
-### What's need now and in future?
+    + As a **site owner** I want the landing page (index.html) to clearly provide all information needed about the sites purpose and what is available.
+    + As a **site owner** I want any user to receive the correct information for the viewport they’re currently on.
+    + As a **site owner** I want users to clearly see there are people willing to play with and help them improve at rocket league.
+    + As a **site owner** I want an organized, intuitive navigation system across all pages.
+    + As a **site owner** I want users to see input from people who’ve participated and their respective ranks.
+    + As a **site owner** I want to include information of upcoming tournaments with conversions for major time zones.
+    + As a **site owner** I want any user to be able to easily contact me with their details and query for more information.
+
+### What's needed now and in future?
 
 + What do they say they need?
 
@@ -119,7 +121,6 @@ F. User posted testimonials | 1 | 2
     Setup guides for discord, private matches which provide key information to help any potential users wanting to get involved who may lack this knowhow and to enable all users (mobile, tablet and PC) to find, view and use the site easily without compromising design.
 
     Other features further down the line will allow the website to provide a more complete user experience by incorporating user profiles, tournament stat tracking, merchandise, user posted testimonials. These will all help with user satisfaction, retention and familiarisation with the discords brand.
-
 
 ### Website Structure
 
