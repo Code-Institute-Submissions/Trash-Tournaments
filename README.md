@@ -221,8 +221,8 @@ To keep with the intended consistent styling I have used the same two fonts from
 ## Technologies
 
 ### Languages
-+ HTML - Used as the main language for structuring the website.
-+ CSS - Used as the main language for styling the website.
++ [HTML](https://en.wikipedia.org/wiki/HTML) - Used as the main language for structuring the website.
++ [CSS](https://en.wikipedia.org/wiki/CSS) - Used as the main language for styling the website.
 
 ### Frameworks, libraries and programs
 + [Bootstrap](https://getbootstrap.com/) - The Bootstrap framework is being used to style, organize and position content using the grid system. It also handles the JavaScript for the user profiles modal.
