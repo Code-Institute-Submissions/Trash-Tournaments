@@ -49,7 +49,7 @@ body {
     bottom: 2vh;
 }
 
-.overview-item, .principle-item, .tournaments-item, .contact-item {
+.overview-item, .principle-item, .tournaments-item, .contact-item, .feedback-header {
     padding-top: 1vh;
 }
 
@@ -214,6 +214,7 @@ a:hover {
     text-align: left;
     font-size: 3vw;
     font-family: Arvo, serif;
+    padding-left: 1vw;
 }
 
 .signup-logo {
