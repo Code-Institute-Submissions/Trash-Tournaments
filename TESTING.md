@@ -3,7 +3,6 @@
 ### Responsiveness
 
 To test the responsiveness of the site I used [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) and [Responsive Design Checker](https://www.responsivedesignchecker.com/).
-![Responsive Design](readme-files/responsiveness.png)
 
 Responsiveness (website layout)
 

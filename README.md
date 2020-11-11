@@ -281,10 +281,10 @@ The live link for the site is here: [https://joeyyscott.github.io/Trash-Tourname
 
 ### Content
 
-This section includes all areas/sections of code and properties I was unaware of. I've also included citations from where I've adapted/changed code used in the projects throughout my course as figured it was better practice to state as such to avoid any penalizations or copyright violations.
+This section includes areas/sections of code and properties I was unaware of. I've also included sources from where I've adapted/changed code used in the projects throughout my course as figured it was better practice to state as such to avoid any penalizations or copyright violations.
 
-+ Tournaments page / CSS - The timeline used in tournaments page is an adapted version of the timeline used in Code Institutes mini project for Rosies Resume. I've never coded this feature before but felt it would make an effective way to display the tournaments information.
-+ Player Feedback / html/CSS - I wanted to use the quotes section from Whiskey Drop project and ended up adapting my code to my needs. I wanted to display information from players in this way but further along the development process I made the decision to show images on all devices and on the same line but thought it best to include this in my citations.
++ Tournaments page / CSS - The timeline used in tournaments page is an adapted version of the timeline used in Code Institutes mini project for [Rosies Resume](https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4). I've never coded this feature before but felt it would make an effective way to display the tournaments information.
++ Player Feedback / html/CSS - I wanted to use the quotes section from [Whiskey Drop](https://github.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4) project and ended up adapting my code to my needs. I wanted to display information from players in this way but further along the development process I made the decision to show images on all devices and on the same line but thought it best to include this in my citations.
 + My responsive navbar is an adapted version from Bootstrap [here](https://getbootstrap.com/docs/4.0/components/navbar/).
 
 ### Media
