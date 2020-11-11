@@ -261,6 +261,14 @@ To achieve deployment I used this process:
 
 The live link for the site is here: [https://joeyyscott.github.io/Trash-Tournaments/](https://joeyyscott.github.io/Trash-Tournaments/)
 
+### Creating a local clone
+
+1. Open GitHub and locate the associated GitHub repository [here](https://github.com/JoeyyScott/Trash-Tournaments).
+2. In the section that contains the Go to file, Add File and Code buttons, click the dropdown box on code.
+3. Of the options available the one we want is to copy the link to the repository whilst having "HTTPS" selected.
+4. Open your desired terminal (built in on your computer or in an IDE) and directory.
+5. Type ```git clone``` with the URL after it and press enter to create a local clone at your desired local location.
+
 ## Credits
 
 ### Content
