@@ -29,9 +29,11 @@ ___
 
 - [**Technologies**](#technologies)
 
+- [**Testing**](#testing)
+
 - [**Deployment**](#deployment)
 
-- [**Citations**](#citations)
+- [**Credits**](#credits)
   
   ___
 
