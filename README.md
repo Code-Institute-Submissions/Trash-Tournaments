@@ -236,6 +236,12 @@ To keep with the intended consistent styling I have used the same two fonts from
 
 ---
 
+## Testing
+
+I created a separate file for the testing process which can be located [here](TESTING.md).
+
+---
+
 ## Deployment
 
 ### Project Inception
