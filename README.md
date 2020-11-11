@@ -261,12 +261,25 @@ To achieve deployment I used this process:
 
 The live link for the site is here: [https://joeyyscott.github.io/Trash-Tournaments/](https://joeyyscott.github.io/Trash-Tournaments/)
 
-## Citations
+## Credits
+
+### Content
 
 This section includes all areas/sections of code and properties I was unaware of. I've also included citations from where I've adapted/changed code used in the projects throughout my course as figured it was better practice to state as such to avoid any penalizations or copyright violations.
 
 + Tournaments page / CSS - The timeline used in tournaments page is an adapted version of the timeline used in Code Institutes mini project for Rosies Resume. I've never coded this feature before but felt it would make an effective way to display the tournaments information.
 + Player Feedback / html/CSS - I wanted to use the quotes section from Whiskey Drop project and ended up adapting my code to my needs. I wanted to display information from players in this way but further along the development process I made the decision to show images on all devices and on the same line but thought it best to include this in my citations.
++ My responsive navbar is an adapted version from Bootstrap [here](https://getbootstrap.com/docs/4.0/components/navbar/).
+
+### Media
+
+The pictures used in this site (background image and rank icons) were obtained from the game [Rocket League](https://www.rocketleague.com/).
+
+### Acknowledgments
+
+The [Code Institute](https://codeinstitute.net/) slack community for their ongoing support, help and patience with any queries I have.
+
+My mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for all of his help throughout our project calls. 
 
 #### [Back to top](#contents)
 
