@@ -4,7 +4,7 @@
 
 Trash Tournaments is a personal community discord aimed at helping peope improve at the game Rocket League. It is owned by me and a few friends and for Milestone Project 1 why not create a site that will get used?
 
-Am I responsive screenshot
+![Am I responsive screenshot](readme-images/amiresponsive.png)
 
 ___
 
@@ -235,6 +235,7 @@ To keep with the intended consistent styling I have used the same two fonts from
 + [coolors.co](coolors.co) - I used this tool to generate a colour scheme based on the two colours I had.
 + [Colorhexa](https://www.colorhexa.com/) - I used this tool to give me the RGB values of my light blue colour for the ttstyle-fade class.
 + [GIMP](https://www.gimp.org) - I used this program to design the navigation menu, footer icons and wireframes.
++ [Am I Responsive?](http://ami.responsivedesign.is/) - I used this tool to easily display the responsiveness of my site for my README.md intro.
 
 ---
 
