@@ -130,7 +130,7 @@ This website will use a conventional hierarchical tree structure to utilize the 
 
 Each page will include a central navigation system to provide links to a minimum of 3 other pages and providing information related to the page title. There will be a subtle but noticeable indicator as to the current page the user is browsing. The nav bar is subject to responsive design and on small/mobile devices will condense into a ‘hamburger’ icon that will have a toggle to view the nav menu and its associated links. As mentioned earlier this will save screen real estate and keep to conventions users are expecting.
 <h2 align="center">Diagram for tree structure</h2>
-<h3 align="center"><img src="assets/images/treestructure.png"></h3>
+<h3 align="center"><img src="readme-images/treestructure.png"></h3>
 
 To maintain a good user experience, consistent styling throughout the site and using interaction design elements that utilize user’s expectations of conventions.
 + The most notable being every page of the site contains the official Logo in the top left of the header as this is the first spot most users look when loading a website. Clicking the logo will return user to the homepage (index.html).
@@ -146,7 +146,7 @@ To maintain a good user experience, consistent styling throughout the site and u
 
 #### Colour Scheme
 
-![Colour Scheme](assets/images/colourscheme.png)
+![Colour Scheme](readme-images/colourscheme.png)
 
 After a quick Google search I found a great tool called [coolors.co](coolors.co) which I used to create this colour scheme. From the strategy section we want it to be blue, white and gold. I picked the gold and darker blue from the logo given, I decided to use a second lighter shade of blue (using the sites generator) to create visual identification to the user about state changes of elements. The final colour chosen was off-white to provide a neutral colour for text.
 
