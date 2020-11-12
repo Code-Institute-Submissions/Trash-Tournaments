@@ -1,5 +1,36 @@
 ## Testing
 
+### Code validators
+
+I used [w3.org's validator](https://validator.w3.org/) for my HTML validation checks.
+
+Home page (index.html)
+
+![Home Page Validation](readme-images/index-test.png)
+
+About page (about.html)
+
+![About Page Validation](readme-images/about-test.png)
+
+Tournaments page (tournaments.html)
+
+![Tournaments Page Validation](readme-images/tournaments-test.png)
+
+Contact page (contact.html)
+
+![Contact Page Validation](readme-images/contact-test.png)
+
++ The only warning received across all pages was about using h1 as a top level element only.
+    + The warning was ignored as they were design decisions.
+
+I used [w3.org's validator](https://jigsaw.w3.org/css-validator/) for my CSS validation checks.
+
+CSS (style.css)
+
+![CSS Validation](readme-images/css-test.png)
+
++ No errors were found within the document.
+
 ### Responsiveness
 
 To test the responsiveness of the site I used [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) and [Responsive Design Checker](https://www.responsivedesignchecker.com/).
