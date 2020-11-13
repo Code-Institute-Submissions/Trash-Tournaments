@@ -181,6 +181,10 @@ a:hover {
 
 /* Tournaments Page */
 
+.tournament-title {
+    margin-bottom: 0;
+}
+
 .tournament-object {
     padding: 0 0 1vh 1em;
     position: relative;
