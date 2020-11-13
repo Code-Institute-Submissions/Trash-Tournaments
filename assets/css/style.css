@@ -426,6 +426,13 @@ label {
     .intro-subheader {
         font-size: 1.75vw;
     }
+    .tournament-text {
+        font-size: 0.85vw; 
+    }
+    .tournament-title {
+        font-size: 1.25vw;
+    }
 }
 
 /* ---------- Testing */
+
