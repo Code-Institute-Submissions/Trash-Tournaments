@@ -135,7 +135,26 @@ Notes:
 
 ### Bugs
 
-+ The first bug I encountered was my background image not showing up when I pushed the code to github pages.
-    + This was due to a faulty file path where I had a / which caused it to look for the image at the root of the current web rather than the current folder.
++ When adding my background image it wasn't showing up when I pushed the code to github pages.
+    + To solve this I found out it was due to a faulty file path where I had a / which caused it to look for the image at the root of the current web rather than the current folder.
+
++ When adding the nav menu, the navbar-nav element was positioned fine on mobile but when going to desktop view it was pushed all the way to the right which wasn't intended in the design.
+	+ To solve this I added ```margin: auto;``` to the navbar-nav element.
+
++ When I was adding the footer icons I set them to be of relative position and bottom set to 1vh which caused a bug later down the line where the icons where appearing outside of the footer container.
+	+ To solve this I removed the 2 aforementioned property types
+
++ From a previous attempt to style the footer container I was using vw to make it stretch to the size I wanted. At the current point of the development process it was appearing huge on desktop view so I added a max-height of 10vh. This ended up causing a bug later on where content was appearing outside of the footer on large devices because it was making the container smaller than needed for content size.
+	+ To solve this I removed the max-height property as the new design wasn't causing the issue I originally experienced.
+
++ The h1 element in my header was pushing some of the other header elements on medium devices.
+	+ To solve this I added ```margin: 0;``` to the h1 element inside the .header-title class which allowed for content to be displayed better and stopped content overlapping/coming out of the header.
+
++ When adding the header title and motto to the header, a bug occured involving my navbar. I had it positioned relatively with a top value of 3.5vh for medium devices which caused the navbar to appear outside of the header.
+	+ To solve this I lowered it to 2.85vh and the nav bar now functions as intended across devices.
+	+ I also added a 1.5vh top margin to .header-title on large devices to stop it being pushed to the top of the header.
+
++ When viewing the signup guide on small devices it was indenting and only showing on the right hand side of the container.
+	+ To solve this I added my own left padding of 1vw which displayed the content as intended.
 
 [Return to README.md](README.md).
