@@ -12,18 +12,18 @@ ___
 
 - [**User Experience Design (UXD)**](<#user-experience-design-(uxd)>)
 
-  - Project Goals
-  - Content Requirements
-  - Importance/Feasibility chart
-  - First time user/Site owner goals
-  - What's needed now and in future?
-  - Website Structure
-  - Design Decisions from UXD
+  - [Project Goals](<#project-goals>)
+  - [Content Requirements](<#content-requirements>)
+  - [Importance and Feasibility chart](<#importance-and-feasibility-chart>)
+  - [User Stories](<#user-stories>)
+  - [What is needed now and in future?](<#what-is-needed-now-and-in-future>)
+  - [Website Structure](<#website-structure>)
+  - [Design Decisions from UXD](<#design-decisions-from-uxd>)
     - Colour Scheme
-    - Typograhpy
     - Images
-  - Wireframes
-  - Design Changes
+    - Typography
+  - [Wireframes](<#wireframes>)
+  - [Design Changes](<#design-changes>)
 
 - [**Features**](#features)
 
@@ -75,7 +75,7 @@ The idea is to create a static front-end only website consisting of 5 pages to a
     + **Does it offer what I want?** - Friendly environment to improve, higher ranks willing to help, finding people to play with who have similar interests. (wanting to improve, play as a team, etc)
     + **Does it encourage new users and existing users to stay/return?** - All call to action buttons and links open up in a new tab to maintain user retention. On the homepage there’s evidence of all the content within the site in a shortened version; current users, users learning experiences in about page, a variety of information/content presented to promote the discords ethos and community which entices new users as they can see others already benefitting from it.
 
-### Importantance/Feasibility chart
+### Importance and Feasibility chart
 
 Opportunity/Problem | Importance | Viability/Feasibility
 :-------- |:--------:|:--------:
@@ -98,7 +98,7 @@ F. User posted testimonials | 1 | 2
     + As a **first time user** I want to find information about upcoming tournaments
     + As a **first time user** I want to be able to contact the site owners for more information
 
-    - #### Site Owner Goals
+- #### Site Owner Goals
 
     + As a **site owner** I want the landing page (index.html) to clearly provide all information needed about the sites purpose and what is available.
     + As a **site owner** I want any user to receive the correct information for the viewport they’re currently on.
@@ -108,7 +108,7 @@ F. User posted testimonials | 1 | 2
     + As a **site owner** I want to include information of upcoming tournaments with conversions for major time zones.
     + As a **site owner** I want any user to be able to easily contact me with their details and query for more information.
 
-### What's needed now and in future?
+### What is needed now and in future?
 
 + What do they say they need?
 
