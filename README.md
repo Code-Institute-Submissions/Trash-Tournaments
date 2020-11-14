@@ -170,6 +170,9 @@ To keep with the intended consistent styling I have used the same two fonts from
 
 + Originally I was going to use the standard navbartoggler icon from BootStrap but decided to use a font awesome icon inside my span element of the button. Doesn't seem to affect my site as it stands, I used a trash can icon to build the brands presence.
     + EDIT: I ended up designing a nav logo using the 3 lines of a conventional hamburger icon and have used this instead.
+
+#### [Back to top](#contents)
+
 ---
 
 ## Features
@@ -218,6 +221,8 @@ To keep with the intended consistent styling I have used the same two fonts from
     + **User profiles**: This would require a signup page, user accounts and a way to faciliate this process.
     + **User posted feedback**: From speaking to users in my UX design section being able to add their own feedback is a favourable feature. (This would also require user profiles)
 
+#### [Back to top](#contents)
+
 ---
 
 ## Technologies
@@ -237,11 +242,15 @@ To keep with the intended consistent styling I have used the same two fonts from
 + [GIMP](https://www.gimp.org) - I used this program to design the navigation menu, footer icons and wireframes.
 + [Am I Responsive?](http://ami.responsivedesign.is/) - I used this tool to easily display the responsiveness of my site for my README.md intro.
 
+#### [Back to top](#contents)
+
 ---
 
 ## Testing
 
 I created a separate file for the testing process which can be located [here](TESTING.md).
+
+#### [Back to top](#contents)
 
 ---
 
@@ -278,6 +287,10 @@ The live link for the site is here: [https://joeyyscott.github.io/Trash-Tourname
 4. Open your desired terminal (built in on your computer or in an IDE) and directory.
 5. Type ```git clone``` with the URL after it and press enter to create a local clone at your desired local location.
 
+#### [Back to top](#contents)
+
+---
+
 ## Credits
 
 ### Content
@@ -300,4 +313,4 @@ My mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/
 
 #### [Back to top](#contents)
 
-
+---
