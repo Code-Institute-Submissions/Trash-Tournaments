@@ -166,7 +166,7 @@ To keep with the intended consistent styling I have used the same two fonts from
 | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/wireframes/index/index-tablet.png) | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/wireframes/about/about-tablet.png) | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/wireframes/tournaments/tournaments-tablet.png) | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/wireframes/contact/faq-tablet.png) |
 |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/wireframes/index/index-pc.png)     |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/wireframes/about/about-pc.png)     |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/wireframes/tournaments/tournaments-pc.png)     |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/wireframes/contact/faq-pc.png)     |
 
-### Design changes from project inception
+### Design changes
 
 + Originally I was going to use the standard navbartoggler icon from BootStrap but decided to use a font awesome icon inside my span element of the button. Doesn't seem to affect my site as it stands, I used a trash can icon to build the brands presence.
     + EDIT: I ended up designing a nav logo using the 3 lines of a conventional hamburger icon and have used this instead.
