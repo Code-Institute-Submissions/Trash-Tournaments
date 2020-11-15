@@ -10,7 +10,7 @@ ___
 
 ## Contents
 
-- [**User Experience Design (UXD)**](<#user-experience-design-(uxd)>)
+- [**User Experience Design (UXD)**](<#user-experience-design>)
 
   - [Project Goals](<#project-goals>)
   - [Content Requirements](<#content-requirements>)
@@ -37,7 +37,7 @@ ___
   
   ___
 
-## User Experience Design (UXD)
+## User Experience Design
 
 ### Project Goals
 
@@ -148,7 +148,7 @@ To maintain a good user experience, consistent styling throughout the site and u
 
 ![Colour Scheme](readme-images/colourscheme.png)
 
-After a quick Google search I found a great tool called [coolors.co](coolors.co) which I used to create this colour scheme. From the strategy section we want it to be blue, white and gold. I picked the gold and darker blue from the logo given, I decided to use a second lighter shade of blue (using the sites generator) to create visual identification to the user about state changes of elements. The final colour chosen was off-white to provide a neutral colour for text.
+After a quick Google search I found a great tool called [coolors.co](https://coolors.co/) which I used to create this colour scheme. From the strategy section we want it to be blue, white and gold. I picked the gold and darker blue from the logo given, I decided to use a second lighter shade of blue (using the sites generator) to create visual identification to the user about state changes of elements. The final colour chosen was off-white to provide a neutral colour for text.
 
 #### Images
 
