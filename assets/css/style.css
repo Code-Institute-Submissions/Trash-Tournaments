@@ -84,7 +84,7 @@ body {
 
 p {
     color: #ffffee;
-    font-size: 3vw;
+    font-size: 4vw;
     display: inline-block;
     font-family: Arvo, serif;
     text-overflow: ellipsis;
@@ -93,21 +93,21 @@ p {
 }
 
 h1 {
-    font-size: 5vw;
+    font-size: 6vw;
     color: #d4af37;
     line-height: 1;
     font-weight: bold;
 }
 
 h2 {
-    font-size: 4vw;
+    font-size: 5vw;
     color: #d4af37;
     line-height: 1;
     font-weight: bold;
 }
 
 h3 {
-    font-size: 4vw;
+    font-size: 5vw;
     line-height: 1;
 }
 
@@ -171,6 +171,13 @@ a:hover {
     padding-right: 8px;
 }
 
+/* ---------- Home page */
+
+.intro-text {
+    background-color: rgba(34, 116, 165, 0.75);
+    border: 1px solid #d4af37;
+}
+
 /* ---------- About Page */
 
 .principle-text {
@@ -199,7 +206,7 @@ a:hover {
     border-left: 1px solid #d4af37;
     text-align: left;
     bottom: 3vh;
-    font-size: 3vw;
+    font-size: 4vw;
 }
 
 .tournament-object:before {
@@ -375,7 +382,7 @@ label {
     h1 {
         font-size: 4vw;
     }
-    h2, .modal-title {
+    h2, .modal-title, .tournament-object {
         font-size: 3vw;
     }
     h3, label, .modal-banner {
@@ -386,6 +393,10 @@ label {
     }
     .navbar-nav {
         top: 2.85vh;
+    }
+    .intro-text {
+        background-color: transparent;
+        border: none;
     }
 }
 
