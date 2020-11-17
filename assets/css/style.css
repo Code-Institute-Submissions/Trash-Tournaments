@@ -70,6 +70,13 @@ body {
     border: 1px solid #d4af37;
 }
 
+.heading {
+    background-color: rgba(34, 116, 165, 0.75);
+    width: max-content;
+    margin: 0 auto 1vh;
+    padding: 0.25vw;
+}
+
 .highlight {
     display: inline;
     color: #d4af37;
