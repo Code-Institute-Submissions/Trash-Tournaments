@@ -132,12 +132,17 @@ a:hover {
     top: 1.5vh;
 }
 
-.header-title h1 {
+.brand-title {
+    font-size: 6vw;
+    color: #d4af37;
+    line-height: 1;
+    font-weight: bold;
     margin: 0;
 }
 
 .brand-motto {
     color: #ffffee;
+    font-size: 5vw;
 }
 
 .menu-notice {
@@ -376,10 +381,10 @@ label {
     p, .form-text {
         font-size: 2vw;
     }
-    h1 {
+    h1, .brand-title {
         font-size: 4vw;
     }
-    h2, .modal-title, .tournament-object {
+    h2, .modal-title, .tournament-object, .brand-motto {
         font-size: 3vw;
     }
     h3, label, .modal-banner, .intro-subheader {
@@ -404,7 +409,7 @@ label {
     p, .feedback-text, .tournament-object, .form-text, .principle-text {
         font-size: 0.75vw;
     }
-    h1, h2, h3, .footer-text, label, .modal-banner, .intro-text, .index-btn {
+    h1, h2, h3, .footer-text, label, .modal-banner, .intro-text, .index-btn, .brand-title, .brand-motto {
         font-size: 1.5vw;
     }
     .navbar-dark .navbar-nav .nav-link {
