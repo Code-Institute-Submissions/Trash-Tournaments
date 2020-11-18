@@ -283,6 +283,12 @@ label {
     font-size: 4vw;
 }
 
+/* ---------- 404 Page */
+
+.stuck-msg {
+    font-size: 4vw;
+}
+
 /* ---------- Buttons */
 
 .contact-btn {
@@ -302,6 +308,20 @@ label {
 }
 
 .index-btn:hover {
+    color: #242045;
+    border-color: #242045;
+}
+
+.stuck-btn {
+    color: #d4af37;
+    margin-top: 2vh;
+    font-size: 7vw;
+    font-family: 'Lobster Two', cursive;
+    text-decoration: none;
+    padding: 0 1%;
+}
+
+.stuck-btn:hover {
     color: #242045;
     border-color: #242045;
 }
@@ -404,7 +424,7 @@ label {
     h1, .modal-title, .brand-title {
         font-size: 4vw;
     }
-    h2, .tournament-object, .brand-motto {
+    h2, .tournament-object, .brand-motto, .stuck-msg {
         font-size: 3vw;
     }
     h3, label, .modal-banner, .modal-tagline, .intro-subheader, .footer-text {
@@ -432,7 +452,7 @@ label {
     p, .feedback-text, .tournament-object, .form-text, .principle-text, .modal-text {
         font-size: 0.75vw;
     }
-    h1, h2, h3, label, .modal-title, .modal-banner, .modal-tagline, .brand-title, .brand-motto,  .footer-text {
+    h1, h2, h3, label, .modal-title, .modal-banner, .modal-tagline, .brand-title, .brand-motto,  .footer-text, .stuck-msg {
         font-size: 1.5vw;
     }
     .navbar-dark .navbar-nav .nav-link {
@@ -453,7 +473,7 @@ label {
     .modal-content {
         width: 100%;
     }
-    .intro-header, .index-btn {
+    .intro-header, .index-btn, .stuck-btn {
         font-size: 2.25vw;
     }
     .modal-text {
