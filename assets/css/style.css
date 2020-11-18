@@ -68,7 +68,8 @@ body {
 .heading {
     background-color: #006494;
     margin: 0 auto 1vh;
-    padding: 0.25vw;
+    padding: 0 0.25vw 1vh;
+    border: 1px solid #d4af37;
 }
 
 .highlight {
@@ -175,6 +176,10 @@ a:hover {
 }
 
 /* ---------- Home page */
+
+.intro-text {
+    padding: 1vh 1vw 0;
+}
 
 .intro-subheader {
     font-size: 5vw;
@@ -416,7 +421,7 @@ label {
     p, .feedback-text, .tournament-object, .form-text, .principle-text, .modal-text {
         font-size: 0.75vw;
     }
-    h1, h2, h3, .footer-text, label, .modal-title, .modal-banner, .modal-tagline, .intro-text, .index-btn, .brand-title, .brand-motto {
+    h1, h2, h3, .footer-text, label, .modal-title, .modal-banner, .modal-tagline, .index-btn, .brand-title, .brand-motto {
         font-size: 1.5vw;
     }
     .navbar-dark .navbar-nav .nav-link {
@@ -428,7 +433,7 @@ label {
     .header-img, .footer-img {
         width: 5vw;
     }
-    .signup-guide {
+    .signup-guide,  .intro-text {
         font-size: 1.25vw;
     }
     .signup-logo {
