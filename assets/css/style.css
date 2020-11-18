@@ -158,10 +158,11 @@ a:hover {
 
 .footer-text {
     color: #d4af37;
-    font-size: 2.5vw;
+    font-size: 3.70vw;
     display: inline-block;
     font-family: 'Lobster Two', cursive;
     vertical-align: middle;
+    font-weight: bold;
 }
 
 .footer-img {
@@ -383,7 +384,7 @@ label {
 
 /* --------- Media queries */
 
-@media screen and (max-width: 319px) {
+@media screen and (max-width: 767px) {
     .footer-img {
         display: none;
     }
@@ -399,7 +400,7 @@ label {
     h2, .tournament-object, .brand-motto {
         font-size: 3vw;
     }
-    h3, label, .modal-banner, .modal-tagline, .intro-subheader {
+    h3, label, .modal-banner, .modal-tagline, .intro-subheader, .footer-text {
         font-size: 2.5vw;
     }
     .navbar-dark .navbar-nav .nav-link {
@@ -421,7 +422,7 @@ label {
     p, .feedback-text, .tournament-object, .form-text, .principle-text, .modal-text {
         font-size: 0.75vw;
     }
-    h1, h2, h3, .footer-text, label, .modal-title, .modal-banner, .modal-tagline, .index-btn, .brand-title, .brand-motto {
+    h1, h2, h3, label, .modal-title, .modal-banner, .modal-tagline, .index-btn, .brand-title, .brand-motto,  .footer-text {
         font-size: 1.5vw;
     }
     .navbar-dark .navbar-nav .nav-link {
