@@ -257,6 +257,10 @@ a:hover {
     margin-bottom: 1vh;
 }
 
+.faq-question {
+    font-size: 7.5vw;
+}
+
 .query-form {
     margin: 1vh auto;
     width: 70%;
@@ -409,6 +413,9 @@ label {
     .navbar-nav {
         top: 2.85vh;
     }
+    .faq-question {
+        font-size: 3.5vw;
+    }
 }
 
 @media screen and (min-width: 992px)  and (orientation: landscape) {
@@ -467,6 +474,9 @@ label {
     }
     .heading {
         width: max-content;
+    }
+     .faq-question {
+        font-size: 2vw;
     }
 }
 
