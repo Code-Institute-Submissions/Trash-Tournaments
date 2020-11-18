@@ -218,7 +218,7 @@ To keep with the intended consistent styling I have used the same two fonts from
     Included in the **contact.html** page is:
 
     + **FAQs**: Includes the most commonly asked questions to aid users who may experience difficulty.
-    + **Contact Form**: Can be filled out with a name, email and message query (with associated validation) and submitted to contact the discord owners. (Currently due to no JavaScript the form cannot store or send data.)
+    + **Contact Form**: Can be filled out with a name, email and message query (with associated validation) and submitted to contact the Discord owners. (Currently due to no JavaScript the form cannot store or send data.)
 
 + ### Features to be added
 
@@ -301,8 +301,8 @@ The live link for the site is here: [https://joeyyscott.github.io/Trash-Tourname
 
 This section includes areas/sections of code and properties I was unaware of. I have also included sources from where I have adapted/changed code used in the projects throughout my course as I figured it was better practice to state as such to avoid any penalizations or copyright violations.
 
-+ Tournaments page / CSS - The timeline used the Tournaments page is an adapted version of the timeline used in Code Institute's mini project for [Rosies Resume](https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4). I have never coded this feature before but felt it would make an effective way to display information about the Tournaments' including time, date and description.
-+ Player Feedback / html/CSS - I wanted to use the quotes section from the [Whiskey Drop](https://github.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4) project and ended up adapting my code to my needs. I wanted to display information from players in this way but further along the development process I made the decision to show images on all devices and on the same line but thought it best to include this in my citations.
++ Tournaments page / html/CSS - The timeline used the Tournaments page is an adapted version of the timeline used in Code Institute's mini project for [Rosies Resume](https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4). I have never coded this feature before but felt it would make an effective way to display information about the Tournaments' including time, date and description.
++ Player Feedback / html - I wanted to use the quotes section from the [Whiskey Drop](https://github.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4) project and ended up adapting my code to my needs. I wanted to display information from players in this way but further along the development process I made the decision to show images on all devices and on the same line but thought it best to include this in my citations.
 + My responsive navbar is an adapted version from Bootstrap [here](https://getbootstrap.com/docs/4.0/components/navbar/).
 
 ### Media

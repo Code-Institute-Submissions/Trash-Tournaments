@@ -207,6 +207,7 @@ a:hover {
     margin-bottom: 0;
 }
 
+/* Credit for adapted version of Rosie's resume work history timeline */
 .tournament-object {
     padding: 0 0 1vh 1em;
     position: relative;
@@ -239,6 +240,8 @@ a:hover {
 .tournaments-timeline {
     margin: 4vh 0 -3vh;
 }
+
+/* End credit for adapted version of Rosie's resume work history timeline */
 
 .signup-guide {
     text-align: left;
