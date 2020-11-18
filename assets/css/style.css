@@ -291,7 +291,7 @@ label {
 .index-btn {
     color: #d4af37;
     margin: 1vh auto;
-    font-size: 4vw;
+    font-size: 7vw;
 }
 
 .index-btn:hover {
@@ -422,7 +422,7 @@ label {
     p, .feedback-text, .tournament-object, .form-text, .principle-text, .modal-text {
         font-size: 0.75vw;
     }
-    h1, h2, h3, label, .modal-title, .modal-banner, .modal-tagline, .index-btn, .brand-title, .brand-motto,  .footer-text {
+    h1, h2, h3, label, .modal-title, .modal-banner, .modal-tagline, .brand-title, .brand-motto,  .footer-text {
         font-size: 1.5vw;
     }
     .navbar-dark .navbar-nav .nav-link {
@@ -443,7 +443,7 @@ label {
     .modal-content {
         width: 100%;
     }
-    .intro-header {
+    .intro-header, .index-btn {
         font-size: 2.25vw;
     }
     .modal-text {
