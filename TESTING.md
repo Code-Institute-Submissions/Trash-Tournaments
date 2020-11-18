@@ -115,16 +115,16 @@ Notes:
         + I have tested the website across multiple screen sizes and have found no issues thus far.
         + The index page provides all the essential information a first time user could require about the Discord. 
     + As a **first time user** I want to easily be able to find a community to play [Rocket League](https://www.rocketleague.com/) with.
-        + In the header you see the brands motto "Community, redefined." which tells the user the website is about a community.
+        + In the header you see the brands motto "Community, redefined" which tells the user the website is about a community.
         + The first header you see talks about Rocket League and combined with the first point tells the user they can find a community to play Rocket League with.
     + As a **first time user** I want to find out if other people have had experience with this website/Discord.
         + In the overview section of index.html there is a description for the about page that includes "read reviews from some of our players" which directs them to about.html.
         + Once on about.html the user can view player feedback which contains 4 reviews from players within the Trash Tournaments community.
     + As a **first time user** I want to find information about upcoming tournaments.
-        + In the overview section of index.html there's a description for the tournament page that includes "contains all tournament info" which directs them to tournaments.html.
+        + In the overview section of index.html there is a description for the tournament page that includes "contains all tournament info" which directs them to tournaments.html.
         + Once on tournaments.html the user can view the tournament timeline which shows times, dates and a brief description of each tournament.
     + As a **first time user** I want to be able to contact the site owners for more information.
-        + In the overview section of contact.html there's a description for the FAQ/contact page that includes "help answer your questions or contact us further" which directs them to contact.html.
+        + In the overview section of contact.html there is a description for the FAQ/contact page that includes "help answer your questions or contact us further" which directs them to contact.html.
         + Once on contact.html the user may have their answer resolved by the FAQ or they can fill out a form with their name, email and query to submit to the owners.
         + In the footer the left section contains "Contact us here/Get in touch" which redirects the user to contact.html which can be used across all pages.
 

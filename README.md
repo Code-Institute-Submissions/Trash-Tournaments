@@ -65,7 +65,9 @@ The idea is to create a static front-end only website consisting of 5 pages to a
 
 + What is culturally appropriate and would content type would be relevant?
 
-    **Strategy for requirement**: Establishing a solid brand image from the Discord's ethos, active players and purpose creates the welcoming environment for new users. This paired with people who are looking to improve provides a mentally positive and encouraging environment associated with the brand. I’ve added a quick overview of the about page on the homepage to further reinforce that environment.
+    **Strategy for requirement**:
+    
+    Establishing a solid brand image from the Discord's ethos, active players and purpose creates the welcoming environment for new users. This paired with people who are looking to improve provides a mentally positive and encouraging environment associated with the brand. I have added a quick overview of the about page on the homepage to further reinforce that environment.
 
     People playing [Rocket League](https://www.rocketleague.com/) either own a console, pc or both. 66.6% (console) of players may not own a PC/laptop. This is an important consideration as this is potentially 2/3rds of the target audience. Due to this the website will be constructed with a mobile first design approach to utilize the time a potential user spends on the site by providing only the essential information whilst maintaining the style, layout and intuitive browsing. This allows all users (mobile, tablet, PC) to receive a similar but optimized experience which maintains the brand image across all devices. The navigation menu will be central fixed to the top with taglines to provide additional info; however on mobile devices the menu will collapse into a ‘hamburger’ icon as these devices have less screen real estate. All versions will include eye catching fonts, a fitting colour scheme (active pages, links, hovers, etc) and utilizing modern conventions consistently to maintain a satisfying user experience. Using a sleek design will catch the attention of new visitors as it looks professional and provides a positive brand image.
 
@@ -73,7 +75,7 @@ The idea is to create a static front-end only website consisting of 5 pages to a
 
     **Strategy for requirement**: 
     + **What is this?** - Product branding/style must be consistent across all pages and easily recognizable throughout the website.
-    + **Expectations of User** - Active player base, promising reviews, information on all critical areas. Tournament times/dates, how to get involved and a way to contact the owners should they be stuck.
+    + **Expectations of User?** - Active player base, promising reviews, information on all critical areas. Tournament times/dates, how to get involved and a way to contact the owners should they be stuck.
     + **Does it offer what I want?** - Friendly environment to improve, higher ranks willing to help, finding people to play with who have similar interests. (wanting to improve, play as a team, etc)
     + **Does it encourage new users and existing users to stay/return?** - All call to action buttons and links open up in a new tab to maintain user retention. On the homepage there is evidence of all the content within the site in a shortened version; current users, users' learning experiences in the About page, a variety of information/content presented to promote the Discord's ethos and community which entices new users as they can see others already benefitting from it.
 
@@ -102,7 +104,7 @@ F. User posted testimonials | 1 | 2
 
 - #### Site Owner Goals
 
-    + As a **site owner** I want the landing page (index.html) to clearly provide all information needed about the sites purpose and what is available.
+    + As a **site owner** I want the landing page (index.html) to clearly provide all information needed about the site's purpose and what is available.
     + As a **site owner** I want any user to receive the correct information for the viewport they are currently on.
     + As a **site owner** I want users to clearly see there are people willing to play with and help them improve at [Rocket League](https://www.rocketleague.com/).
     + As a **site owner** I want an organized, intuitive navigation system across all pages.
@@ -118,17 +120,17 @@ F. User posted testimonials | 1 | 2
 
 + What do they actually need?
 
-    The Discord owners could have their needs and more fulfilled by using a mobile first approach to a fully responsive website which would allow for easy navigation, use and no diminished experiences on all viewport sizes. Clear simplistically designed pages and sections to draw attention to all the features offered (About, Tournaments' and FAQ/contact) which allows new users to become familiarized with the environment in use by the current players and encourage them to get involved. Within the Tournaments' section, display dates and times in the time zone GMT with a converter that allows all users to check when it is for them. Include a description for the type of tournament (regular, extra modes, training) to ensure users are receiving the correct information for where they wish to get involved.
+    The Discord owners could have their needs and more fulfilled by using a mobile first approach to a fully responsive website which would allow for easy navigation, use and no diminished experiences on all viewport sizes. Clear simplistically designed pages and sections to draw attention to all the features offered (About, Tournaments and FAQ/contact) which allows new users to become familiarized with the environment in use by the current players and encourage them to get involved. Within the Tournaments' section, display dates and times in the time zone GMT with a converter that allows all users to check when it is for them. Include a description for the type of tournament (regular, extra modes, training) to ensure users are receiving the correct information for where they wish to get involved.
 
 + What don’t they know they need?
 
     Setup guides for Discord, private matches which provide key information to help any potential users wanting to get involved who may lack this knowhow and to enable all users (mobile, tablet and PC) to find, view and use the site easily without compromising design.
 
-    Other features further down the line will allow the website to provide a more complete user experience by incorporating user profiles, tournament stat tracking, merchandise and user posted testimonials. These will all help with user satisfaction, retention and familiarisation with the discords brand.
+    Other features further down the line will allow the website to provide a more complete user experience by incorporating user profiles, tournament stat tracking, merchandise and user posted testimonials. These will all help with user satisfaction, retention and familiarisation with the Discord's brand.
 
 ### Website Structure
 
-This website will use a conventional hierarchical tree structure to utilize the three click rule of thumb. This means that a user will never be more than 3 clicks than the content they want to access. Upon loading it will bring you to the home page (index.html) where you can view a brief rundown of the entire site; small sections dedicated to each page within the site providing a brief overview of what that page is.
+This website will use a conventional hierarchical tree structure to utilize the three click rule of thumb. This means that a user will never be more than 3 clicks from the content they want to access. Upon loading it will bring you to the home page (index.html) where you can view a brief rundown of the entire site; small sections dedicated to each page within the site providing a brief overview of what that page is.
 
 Each page will include a central navigation system to provide links to a minimum of 3 other pages and providing information related to the page title. There will be a subtle but noticeable indicator as to the current page the user is browsing. The nav bar is subject to responsive design and on small/mobile devices will condense into a ‘hamburger’ icon that will have a toggle to view the nav menu and its associated links. As mentioned earlier this will save screen real estate and keep to conventions users are expecting.
 <h2 align="center">Diagram for tree structure</h2>
@@ -137,10 +139,10 @@ Each page will include a central navigation system to provide links to a minimum
 To maintain a good user experience, consistent styling throughout the site using interaction design elements utilizes the user’s expectations of conventions.
 + The most notable being every page of the site contains the official Logo in the top left of the header as this is the first spot most users look when loading a website. Clicking the logo will return user to the homepage (index.html).
 + Each nav bar link that is hovered over will provide a subtle visual cue to the user to show where they are selecting and similar cues to show their current location on the site.
-+ The general style, colour scheme, font and design elements will maintain consistency of the discords branding to allow the user to easily familiarize with the layout/structure of the site efficiently and intuitively.
++ The general style, colour scheme, font and design elements will maintain consistency of the Discord's branding to allow the user to easily familiarize with the layout/structure of the site efficiently and intuitively.
 + The footer section of the website contains 3 sections:
     + Section 1 takes up 33% width and contains the message “Still stuck?” and a link to the Contact/FAQ page with an appropriate tagline.
-    + Section 2 takes up 33% width and contains the main link for the website, the invite to the discord with an appropriate tagline.
+    + Section 2 takes up 33% width and contains the main link for the website, the invite to the Discord with an appropriate tagline.
     + Section 3 takes up 33% width and contains icons to various social media links (opens in new tab to maintain user retention)
 + The input elements of the form within the Contact/FAQ page have required attributes and email field contains additional validation; needs “@” and “.” to be present for submission.
 
@@ -150,7 +152,7 @@ To maintain a good user experience, consistent styling throughout the site using
 
 ![Colour Scheme](readme-images/colourscheme.png)
 
-After a quick Google search I found a great tool called [coolors.co](https://coolors.co/) which I used to create this colour scheme. From the strategy section we want it to be blue, white and gold. I picked the gold and darker blue from the logo given, I decided to use a second lighter shade of blue (using the sites generator) to create visual identification to the user about state changes of elements. The final colour chosen was off-white to provide a neutral colour for text.
+After a quick Google search I found a great tool called [coolors.co](https://coolors.co/) which I used to create this colour scheme. From the strategy section feedback, it was decided to be blue, white and gold. I picked the gold and darker blue from the logo given, I decided to use a second lighter shade of blue (using the sites generator) to create visual identification to the user about state changes of elements. The final colour chosen was off-white to provide a neutral colour for text.
 
 #### Images
 
@@ -170,7 +172,7 @@ To keep with the intended consistent styling I have used the same two fonts from
 
 ### Design changes
 
-+ Originally I was going to use the standard navbartoggler icon from BootStrap but decided to use a font awesome icon inside my span element of the button. It doesn't seem to affect my site as it stands, I used a trash can icon to build the brands presence.
++ Originally I was going to use the standard navbartoggler icon from BootStrap but decided to use a font awesome icon inside my span element of the button. It doesn't seem to affect my site as it stands, I used a trash can icon to build the Brand's presence.
     + EDIT: I ended up designing a nav logo using the 3 lines of a conventional hamburger icon and have used this instead.
 
 #### [Back to top](#contents)
@@ -216,7 +218,7 @@ To keep with the intended consistent styling I have used the same two fonts from
     Included in the **contact.html** page is:
 
     + **FAQs**: Includes the most commonly asked questions to aid users who may experience difficulty.
-    + **Contact Form**: - Can be filled out with a name, email and message query (with associated validation) and submitted to contact the discord owners. (Currently due to no JavaScript the form cannot store or send data.)
+    + **Contact Form**: Can be filled out with a name, email and message query (with associated validation) and submitted to contact the discord owners. (Currently due to no JavaScript the form cannot store or send data.)
 
 + ### Features to be added
 
