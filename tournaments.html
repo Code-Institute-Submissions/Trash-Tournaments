@@ -19,7 +19,7 @@
         <header>
             <nav class="navbar navbar-expand-md navbar-dark">
                 <div class="ttstyle header-container container-fluid">
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="index.html" aria-label="Trash Tournaments Brand"> 
                         <img class="header-img" src="assets/images/tt-logo.png" alt="Trash Tournaments Logo">
                         <div class="header-title">
                             <div class="brand-title">Trash Tournaments</div>
@@ -27,18 +27,18 @@
                         </div>
                     </a>
                     <div class="menu-notice d-md-none">Menu</div>
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggle" aria-controls="navbarToggle" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggle" aria-controls="navbarToggle" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span></button>
                     <div class="collapse navbar-collapse" id="navbarToggle">
                         <div class="navbar-nav">
-                            <a class="nav-item nav-link" href="index.html">Home <i class="fas fa-home d-md-none"></i></a>
-                            <a class="nav-item nav-link" href="about.html">About <i class="far fa-question-circle d-md-none"></i></a>
-                            <a class="nav-item nav-link active" href="tournaments.html">Tournaments <i class="fas fa-trophy d-md-none"></i><span class="sr-only">(current)</span></a>
-                            <a class="nav-item nav-link" href="contact.html">FAQ & Contact <i class="fas fa-envelope-open-text d-md-none"></i></a>
+                            <a class="nav-item nav-link" href="index.html" aria-label="Home Page">Home <i class="fas fa-home d-md-none"></i></a>
+                            <a class="nav-item nav-link" href="about.html" aria-label="About Page">About <i class="far fa-question-circle d-md-none"></i></a>
+                            <a class="nav-item nav-link active" href="tournaments.html" aria-label="Tournaments Page">Tournaments <i class="fas fa-trophy d-md-none"></i><span class="sr-only">(current)</span></a>
+                            <a class="nav-item nav-link" href="contact.html" aria-label="FAQ & Contact Page">FAQ & Contact <i class="fas fa-envelope-open-text d-md-none"></i></a>
                         </div>
                     </div>
                 </div>
             </nav>
-            <div class="modal-container container-fluid ttstyle"><a class="modal-banner" href="#" data-toggle="modal" data-target="#userprofileModal">Info about upcoming user profiles!</a></div>
+            <div class="modal-container container-fluid ttstyle"><a class="modal-banner" data-toggle="modal" data-target="#userprofileModal">Info about upcoming user profiles!</a></div>
         </header>
         <!-- Main content -->
         <section class="centered container-fluid">
@@ -47,7 +47,7 @@
 			    <div class="col-12 col-md-6 tournaments-item">
                     <h2>Tournaments Information</h2>
                     <p>So you want to check out tournaments? Here is our tournament schedule with information about our upcoming tournaments!</p>
-                    <p>Times are posted in GMT, you can convert this to your local timezone <a href="https://www.thetimezoneconverter.com/" target="_blank">here</a>.</p>
+                    <p>Times are posted in GMT, you can convert this to your local timezone <a href="https://www.thetimezoneconverter.com/" target="_blank" aria-label="Timezone converter tool">here</a>.</p>
                     <div class="tournaments-timeline">
                         <div class="tournament-object" data-dates="Sat 31st Oct 2020 8pm GMT">
                             <h2 class="tournament-title">Show up and play</h2>
@@ -72,8 +72,8 @@
                     <h2>Sign Up Guide</h2>
                     <p>If you own a discord account or are in the server skip step 1 and/or 2.</p>
                     <ol class="signup-guide">
-                        <li>Create a discord account <a href="https://discordapp.com/register" target="_blank">here.</a> (Optional: download the app <a href="https://discord.com/download" target="_blank">here</a>)</li>
-                        <li>Join the discord - <a href="https://discord.gg/kvkWGNv" target="_blank">Invite link <i class="fab fa-discord"></i> .</a></li>
+                        <li>Create a discord account <a href="https://discordapp.com/register" target="_blank" aria-label="Register for Discord">here.</a> (Optional: download the app <a href="https://discord.com/download" target="_blank" aria-label="Discord download link">here</a>)</li>
+                        <li>Join the discord - <a href="https://discord.gg/kvkWGNv" target="_blank" aria-label="Trash Tournaments invite link">Invite link <i class="fab fa-discord"></i> .</a></li>
                         <li>Navigate to the "<div class="highlight">#tournament-signup</div>" channel in the "<div class="highlight">LANDING ZONE</div>" category within the discord either in a browser or app.</li>
                         <li>React to the sign up message by clicking the Trash Tournaments Logo <img src="assets/images/tt-logo.png" class="signup-logo" alt="Trash Tournaments Logo" /> at the bottom of the message.</li>
                         <li>You will be given a temporary role "<div class="highlight">Tournee</div>" and receive a direct message from "<div class="highlight">Reaction Roles</div>" bot to confirm you've signed up.</li>
@@ -85,18 +85,18 @@
         <!-- Blank space for scrolling -->
         <span class="blank-space"></span>
         <!-- Footer -->
-        <footer class="ttstyle footer-container container-fluid">
+        <footer class="ttstyle footer-container container-fluid" aria-label="Page footer">
             <div class="row">
                 <div class="col-4">
-                    <img src="assets/images/contact-logo.png" class="footer-img" alt="stuck-image" />
+                    <img src="assets/images/contact-logo.png" class="footer-img" alt="contact-logo.png" />
                     <div class="footer-text">Contact us here <br>
-                        <a href="contact.html">Get in touch <i class="fas fa-envelope-open-text"></i></a>
+                        <a href="contact.html" aria-label="Contact Page">Get in touch <i class="fas fa-envelope-open-text"></i></a>
                     </div>
                 </div>
                 <div class="col-4">
-                    <img src="assets/images/tt-logo.png" class="footer-img" alt="discord-image" />
+                    <img src="assets/images/tt-logo.png" class="footer-img" alt="tt-logo.png" />
                     <div class="footer-text">Join the discord! <br>
-                        <a href="https://discord.gg/kvkWGNv" target="_blank">Invite link <i class="fab fa-discord"></i></a>
+                        <a href="https://discord.gg/kvkWGNv" target="_blank" aria-label="Discord Invite Link">Invite link <i class="fab fa-discord"></i></a>
                     </div>
                 </div>
                 <div class="col-4">

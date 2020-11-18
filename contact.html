@@ -19,7 +19,7 @@
         <header>
             <nav class="navbar navbar-expand-md navbar-dark">
                 <div class="ttstyle header-container container-fluid">
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="index.html" aria-label="Trash Tournaments Brand"> 
                         <img class="header-img" src="assets/images/tt-logo.png" alt="Trash Tournaments Logo">
                         <div class="header-title">
                             <div class="brand-title">Trash Tournaments</div>
@@ -27,18 +27,18 @@
                         </div>
                     </a>
                     <div class="menu-notice d-md-none">Menu</div>
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggle" aria-controls="navbarToggle" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggle" aria-controls="navbarToggle" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span></button>
                     <div class="collapse navbar-collapse" id="navbarToggle">
                         <div class="navbar-nav">
-                            <a class="nav-item nav-link" href="index.html">Home <i class="fas fa-home d-md-none"></i></a>
-                            <a class="nav-item nav-link" href="about.html">About <i class="far fa-question-circle d-md-none"></i></a>
-                            <a class="nav-item nav-link" href="tournaments.html">Tournaments <i class="fas fa-trophy d-md-none"></i></a>
-                            <a class="nav-item nav-link active" href="contact.html">FAQ & Contact <i class="fas fa-envelope-open-text d-md-none"></i><span class="sr-only">(current)</span></a>
+                            <a class="nav-item nav-link" href="index.html" aria-label="Home Page">Home <i class="fas fa-home d-md-none"></i></a>
+                            <a class="nav-item nav-link" href="about.html" aria-label="About Page">About <i class="far fa-question-circle d-md-none"></i></a>
+                            <a class="nav-item nav-link" href="tournaments.html" aria-label="Tournaments Page">Tournaments <i class="fas fa-trophy d-md-none"></i></a>
+                            <a class="nav-item nav-link active" href="contact.html" aria-label="FAQ & Contact Page">FAQ & Contact <i class="fas fa-envelope-open-text d-md-none"></i><span class="sr-only">(current)</span></a>
                         </div>
                     </div>
                 </div>
             </nav>
-            <div class="modal-container container-fluid ttstyle"><a class="modal-banner" href="#" data-toggle="modal" data-target="#userprofileModal">Info about upcoming user profiles!</a></div>
+            <div class="modal-container container-fluid ttstyle"><a class="modal-banner" data-toggle="modal" data-target="#userprofileModal">Info about upcoming user profiles!</a></div>
         </header>
         <!-- Main content -->
         <section class="centered container-fluid">
@@ -47,11 +47,11 @@
                 <div class="col-12 col-md-6 contact-item">
                     <h1>Frequently Asked Questions</h1>
                     <div class="faq-question highlight">How do I set up discord?"</div>
-                    <div class="faq-answer"><p>To create a discord account (click <a href="https://discordapp.com/register" target="_blank">here</a>)<br> Discord can be run in a web browser and through pc/mobile app versions. We recommend the app which you can download <a href="https://discord.com/download" target="_blank">here</a>.</p></div>
+                    <div class="faq-answer"><p>To create a discord account (click <a href="https://discordapp.com/register" target="_blank" aria-label="Register for Discord">here</a>)<br> Discord can be run in a web browser and through pc/mobile app versions. We recommend the app which you can download <a href="https://discord.com/download" target="_blank" aria-label="Discord app download link">here</a>.</p></div>
                     <div class="faq-question highlight">"How do I sign up to a tournament?"</div>
-                    <div class="faq-answer"><p>To sign up for one of our tournaments, please follow the instructions on the Tournaments page <a href="tournaments.html">here</a>.</p></div>
+                    <div class="faq-answer"><p>To sign up for one of our tournaments, please follow the instructions on the Tournaments page <a href="tournaments.html" aria-label="Tournaments Page">here</a>.</p></div>
                     <div class="faq-question highlight">"How do I check what time the tournament is for me?"</div>
-                    <div class="faq-answer"><p>Times will be posted in GMT. You can convert this to your local timezone <a href="https://www.thetimezoneconverter.com/" target="_blank">here</a>.</p></div>
+                    <div class="faq-answer"><p>Times will be posted in GMT. You can convert this to your local timezone <a href="https://www.thetimezoneconverter.com/" target="_blank" aria-label="Timezone converter tool">here</a>.</p></div>
                     <div class="faq-question highlight">"How often are the tournaments?"</div>
                     <div class="faq-answer"><p>Tournaments will be hosted every Saturday but as the discord is active 24/7 we may host an impromptu tournament outside of the set weekly day if there's enough people online to warrant it.</p></div>
                 </div>
@@ -59,23 +59,23 @@
                 <div class="col-12 col-md-6 contact-item">
                     <h1>Contact us</h1>
                     <h3>To contact us, fill out the form below and we'll get back to you as soon as we can. Sit tight and play Rocket League!</h3>
-                    <form class="query-form ttstyle">
-                        <div class="form-group">
+                    <form class="query-form ttstyle" aria-label="Contact form">
+                        <div class="form-group" aria-label="Name entry">
                             <label class="highlight labels" for="name">Name</label>
                             <input type="text" class="form-control form-control-sm" id="name" aria-describedby="namemsg" placeholder="Your name" required>
                             <small id="namemsg" class="form-text">Any name you choose. (real name, ingame name, discord name, etc)</small>
                         </div>
-                        <div class="form-group">
+                        <div class="form-group" aria-label="Email entry">
                             <label class="highlight" for="email">Email address</label>
                             <input type="email" class="form-control form-control-sm" id="email" aria-describedby="emailmsg" placeholder="Your email" required>
                             <small id="emailmsg" class="form-text">We won't share your email with anyone else.</small>
                         </div>
-                        <div class="form-group">
+                        <div class="form-group" aria-label="Query entry">
                             <label class="highlight" for="query">Message Query</label>
                             <textarea class="form-control form-control-sm" id="query" rows="4" placeholder="Your message" required></textarea>
                         </div>
                         <div class="form-group">
-                            <button type="submit" class="ttstyle btn-sm contact-btn">Submit query</button>
+                            <button type="submit" class="ttstyle btn-sm contact-btn" aria-label="Submit query">Submit query</button>
                         </div>
                     </form>
                 </div>
@@ -84,18 +84,18 @@
         <!-- Blank space for scrolling -->
         <span class="blank-space"></span>
         <!-- Footer -->
-        <footer class="ttstyle footer-container container-fluid">
+        <footer class="ttstyle footer-container container-fluid" aria-label="Page footer">
             <div class="row">
                 <div class="col-4">
-                    <img src="assets/images/contact-logo.png" class="footer-img" alt="stuck-image" />
+                    <img src="assets/images/contact-logo.png" class="footer-img" alt="contact-logo.png" />
                     <div class="footer-text">Contact us here <br>
-                        <a href="contact.html">Get in touch <i class="fas fa-envelope-open-text"></i></a>
+                        <a href="contact.html" aria-label="Contact Page">Get in touch <i class="fas fa-envelope-open-text"></i></a>
                     </div>
                 </div>
                 <div class="col-4">
-                    <img src="assets/images/tt-logo.png" class="footer-img" alt="discord-image" />
+                    <img src="assets/images/tt-logo.png" class="footer-img" alt="tt-logo.png" />
                     <div class="footer-text">Join the discord! <br>
-                        <a href="https://discord.gg/kvkWGNv" target="_blank">Invite link <i class="fab fa-discord"></i></a>
+                        <a href="https://discord.gg/kvkWGNv" target="_blank" aria-label="Discord Invite Link">Invite link <i class="fab fa-discord"></i></a>
                     </div>
                 </div>
                 <div class="col-4">
