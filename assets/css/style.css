@@ -67,7 +67,6 @@ body {
 
 .heading {
     background-color: #006494;
-    width: max-content;
     margin: 0 auto 1vh;
     padding: 0.25vw;
 }
@@ -137,6 +136,10 @@ a:hover {
     margin: 0;
 }
 
+.brand-motto {
+    color: #ffffee;
+}
+
 .menu-notice {
     position: relative;
     left: 25vw;
@@ -164,6 +167,12 @@ a:hover {
 
 .social-icon {
     padding-right: 8px;
+}
+
+/* ---------- Home page */
+
+.intro-subheader {
+    font-size: 5vw;
 }
 
 /* ---------- About Page */
@@ -373,7 +382,7 @@ label {
     h2, .modal-title, .tournament-object {
         font-size: 3vw;
     }
-    h3, label, .modal-banner {
+    h3, label, .modal-banner, .intro-subheader {
         font-size: 2.5vw;
     }
     .navbar-dark .navbar-nav .nav-link {
@@ -437,6 +446,9 @@ label {
     }
     .tournament-title {
         font-size: 1.25vw;
+    }
+    .heading {
+        width: max-content;
     }
 }
 
