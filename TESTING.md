@@ -43,6 +43,10 @@ Contact page (contact.html)
 
 ![Contact Page Validation](readme-images/contact-test2.png)
 
+Error 404 page (404.html)
+
+![Error Page Validation](readme-images/error-test.png)
+
 I used [w3.org's validator](https://jigsaw.w3.org/css-validator/) for my CSS validation checks.
 
 CSS (style.css)

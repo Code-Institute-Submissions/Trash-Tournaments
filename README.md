@@ -220,6 +220,25 @@ To keep with the intended consistent styling I have used the same two fonts from
     + **FAQs**: Includes the most commonly asked questions to aid users who may experience difficulty.
     + **Contact Form**: Can be filled out with a name, email and message query (with associated validation) and submitted to contact the Discord owners. (Currently due to no JavaScript the form cannot store or send data.)
 
+    Included in the **404.html** page is:
+    
+    + A message telling the user they have accessed a page which doesn't exist.
+    + A button which is linked to index.html that prompts them to return to the site.
+
+    **NOTES**:
+    
+    > This page was added as I was going through my project against the Assessment Handbook 2020. Upon doing so I noticed there was a section in the Distinction performance that reads "users who direct to a non-existence page or resource are redirected back to the main page without having to use the browser navigation buttons". This method was pinned in the [Code Institute's](https://codeinstitute.net/) Slack community about how to add a 404 page.
+    
+    Simply add a 404.md file and place:
+    ```
+    ---
+    permalink: /404.html
+    ---
+    ```
+    Within the file, then add content to 404.html to redirect the user back to index.html.
+
+    I'm not sure on the full functionality of such a feature but I wanted to at least attempt this part of the project as I'm aiming for Distinction.
+
 + ### Features to be added
 
     + **User profiles**: This would require a signup page, user accounts and a way to faciliate this process.
