@@ -85,11 +85,11 @@ Responsiveness (website layout)
 
 Notes:
 
-+ Through the use of vertical width in my font sizes and containers the site is responsive on all screen sizes that I've tested personally. There may be slight issues on certain abstract displays that might need additional media queries as I experienced minor issues in the development of the project pertaining to content being too big for the viewport.
++ Through the use of vertical width in my font sizes and containers the site is responsive on all screen sizes that I have tested personally. There may be slight issues on certain abstract displays that might need additional media queries as I experienced minor issues in the development of the project pertaining to content being too big for the viewport.
 
 ### Browser Compatibility
 
-I tested the appearance and responsiveness of the website across 5 different browsers and varying browser sizes and these are my results.
+I tested the appearance and responsiveness of the website across 5 different browsers and varying browser sizes and these are my results:
 
 |    All Pages   | Firefox | Chrome |  IE  | Edge | Opera |
 |:--------------:|:-------:|:------:|:----:|:----:|:-----:|
@@ -126,14 +126,14 @@ Notes:
     + As a **first time user** I want to be able to contact the site owners for more information.
         + In the overview section of contact.html there's a description for the FAQ/contact page that includes "help answer your questions or contact us further" which directs them to contact.html.
         + Once on contact.html the user may have their answer resolved by the FAQ or they can fill out a form with their name, email and query to submit to the owners.
-        + In the footer the left section contains "Contact us here / Get in touch" which redirects the user to contact.html which can be used across all pages.
+        + In the footer the left section contains "Contact us here/Get in touch" which redirects the user to contact.html which can be used across all pages.
 
 - #### Site Owner Goals
 
     + As a **site owner** I want the landing page (index.html) to clearly provide all information needed about the site's purpose and what is available.
         + When I visit the website I can see the intro section and expand button clearly.
         + In the overview section I can find out about every page within the site and see what is being offered to me.
-    + As a **site owner** I want any user to receive the correct information for the viewport they’re currently on.
+    + As a **site owner** I want any user to receive the correct information for the viewport they are currently on.
         + I have tested the website across multiple screen sizes and have found no issues thus far with content displaying or appearing incorrectly.
         + The "Menu" text does not show on larger devices as intended.
     + As a **site owner** I want users to clearly see there are people willing to play with and help them improve at [Rocket League](https://www.rocketleague.com/).

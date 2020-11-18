@@ -41,25 +41,25 @@ ___
 
 ### Project Goals
 
-The idea is to create a static front-end only website consisting of 5 pages to advertise a non competitive [Rocket League](https://www.rocketleague.com/) tournament discord. The basis for this idea is being a veteran Rocket League player myself I know first-hand the bad experiences a user can encounter. The discord itself is run by me. I consulted with a few friends and proposed the idea to them to give me an idea of requirements, needs and what they would expect/desire from such a product.
+The idea is to create a static front-end only website consisting of 5 pages to advertise a non competitive [Rocket League](https://www.rocketleague.com/) tournament discord. The basis for this idea is being a veteran Rocket League player myself I know first-hand the bad experiences a user can encounter. The Discord itself is run by me. I consulted with a few friends and proposed the idea to them to give me an idea of requirements, needs and what they would expect/desire from such a product.
 
 ### Content Requirements
 
-+ Build an online presence for Trash Tournaments and construct the brands style based on the logo whilst following a minimalistic design.
++ Build an online presence for Trash Tournaments and construct the brand's style based on the logo whilst following a minimalistic design.
 
     **Strategy for requirement**:
     
-    The only graphic that has been given is the discord logo. Due to this, it’s the main inspiration for the design as it returns you to the home page. The suggested colour scheme is; white, blue and gold. These 3 colours will create a consistent style for the website and thus the brand.
+    The only graphic that has been given is the discord logo. Due to this, it is the main inspiration for the design as it returns you to the home page. The suggested colour scheme is: white, blue and gold. These 3 colours will create a consistent style for the website and thus the brand.
 
-    I’ve conducted interviews with the administrators as well as a few current players which provided the information to fill the home page, about section and FAQ. I also received information on how the tournaments will be structured time zone wise which provides a basis for the tournaments timetable page.
+    I have conducted interviews with the administrators as well as a few current players which provided the information to fill the home page, about section and FAQ. I also received information on how the tournaments will be structured time zone wise which provides a basis for the tournaments' timetable page.
 
-+ Create a reason to return to the site and showcase users who’ve done the same.
++ Create a reason to return to the site and showcase users who have done the same.
 
     **Strategy for requirement**: 
     
     Reinforce the Discord's ethos and purpose across all pages and include feedback from players so users are reminded of others and their experiences. On the About page, provide a few comments from players about why they stayed/came back.
 
-    The about page will be the main strategy for this point. It will include a player feedback section which will have comments from active players with their current rank and a feedback paragraph about their experience as a whole. This will allow a new user to see that there is always room for improvement at all ranks and encourage them to get involved (and stay!) through the positive learning experiences displayed. There will also be a “user profiles coming soon!” underneath the header on all pages. Clicking this will activate a call to action modal where a user will be presented with all the relevant information and how to stay in touch.
+    The About page will be the main strategy for this point. It will include a player feedback section which will have comments from active players with their current rank and a feedback paragraph about their experience as a whole. This will allow a new user to see that there is always room for improvement at all ranks and encourage them to get involved (and stay!) through the positive learning experiences displayed. There will also be a “user profiles coming soon!” underneath the header on all pages. Clicking this will activate a call to action modal where a user will be presented with all the relevant information and how to stay in touch.
     
     The brand's name and motto are shown in the header across all pages to reinforce the Discord's ethos about redefining community.
 
@@ -75,7 +75,7 @@ The idea is to create a static front-end only website consisting of 5 pages to a
     + **What is this?** - Product branding/style must be consistent across all pages and easily recognizable throughout the website.
     + **Expectations of User** - Active player base, promising reviews, information on all critical areas. Tournament times/dates, how to get involved and a way to contact the owners should they be stuck.
     + **Does it offer what I want?** - Friendly environment to improve, higher ranks willing to help, finding people to play with who have similar interests. (wanting to improve, play as a team, etc)
-    + **Does it encourage new users and existing users to stay/return?** - All call to action buttons and links open up in a new tab to maintain user retention. On the homepage there’s evidence of all the content within the site in a shortened version; current users, users learning experiences in about page, a variety of information/content presented to promote the Discord's ethos and community which entices new users as they can see others already benefitting from it.
+    + **Does it encourage new users and existing users to stay/return?** - All call to action buttons and links open up in a new tab to maintain user retention. On the homepage there is evidence of all the content within the site in a shortened version; current users, users' learning experiences in the About page, a variety of information/content presented to promote the Discord's ethos and community which entices new users as they can see others already benefitting from it.
 
 ### Importance and Feasibility chart
 
@@ -103,10 +103,10 @@ F. User posted testimonials | 1 | 2
 - #### Site Owner Goals
 
     + As a **site owner** I want the landing page (index.html) to clearly provide all information needed about the sites purpose and what is available.
-    + As a **site owner** I want any user to receive the correct information for the viewport they’re currently on.
+    + As a **site owner** I want any user to receive the correct information for the viewport they are currently on.
     + As a **site owner** I want users to clearly see there are people willing to play with and help them improve at [Rocket League](https://www.rocketleague.com/).
     + As a **site owner** I want an organized, intuitive navigation system across all pages.
-    + As a **site owner** I want users to see input from people who’ve participated and their respective ranks.
+    + As a **site owner** I want users to see input from people who have participated and their respective ranks.
     + As a **site owner** I want to include information of upcoming tournaments with conversions for major time zones.
     + As a **site owner** I want any user to be able to easily contact me with their details and query for more information.
 
@@ -118,7 +118,7 @@ F. User posted testimonials | 1 | 2
 
 + What do they actually need?
 
-    The Discord owners could have their needs and more fulfilled by using a mobile first approach to a fully responsive website which would allow for easy navigation, use and no diminished experiences on all viewport sizes. Clear simplistically designed pages and sections to draw attention to all the features offered (About, Tournaments' and FAQ/contact) which allows new users to become familiarized with the environment in use by the current players and encourage them to get involved. Within the Tournaments' section, display dates and times in the most common time zones to allow the majority of users to be catered for. Include a description for the type of tournament (regular, extra modes, training) to ensure users are receiving the correct information for where they wish to get involved.
+    The Discord owners could have their needs and more fulfilled by using a mobile first approach to a fully responsive website which would allow for easy navigation, use and no diminished experiences on all viewport sizes. Clear simplistically designed pages and sections to draw attention to all the features offered (About, Tournaments' and FAQ/contact) which allows new users to become familiarized with the environment in use by the current players and encourage them to get involved. Within the Tournaments' section, display dates and times in the time zone GMT with a converter that allows all users to check when it is for them. Include a description for the type of tournament (regular, extra modes, training) to ensure users are receiving the correct information for where they wish to get involved.
 
 + What don’t they know they need?
 
@@ -158,7 +158,7 @@ The Trash Tournaments logo image is owned by me as I created it. The other image
 
 #### Typography
 
-To keep with the intended consistent styling I have used the same two fonts from the Google Fonts library. I picked Lobster Two Bold 700 italic for the headings and titles as it’s the same font used in the logo. I’m using Arvo 400 as my secondary font for the content text as it was a complimentary font to Lobster Two. Font weights may be subject to change once coding has started.
+To keep with the intended consistent styling I have used the same two fonts from the Google Fonts library. I picked Lobster Two Bold 700 italic for the headings and titles as it is the same font used in the logo. I am using Arvo 400 as my secondary font for the content text as it was a complimentary font to Lobster Two. Font weights may be subject to change once coding has started.
 
 ### Wireframes
 
@@ -190,9 +190,9 @@ To keep with the intended consistent styling I have used the same two fonts from
 
     Included in the **footer** is:
 
-    + **Contact button**: which redirects the user to the contact page. This provides a way across all pages and screen sizes to get in touch with the owners.
-    + **Discord invite link**: which will open in a new tab and providing the main link the user will need to get involved in the community, placed in the center for this reason.
-    + **Social media links**: which will take you to the various social media connnections for the Discord. (These links will point to the homepage for the associcated social media site as the brand's socials do not exist at this point in time)
+    + **Contact button**: Which redirects the user to the contact page. This provides a way across all pages and screen sizes to get in touch with the owners.
+    + **Discord invite link**: Which will open in a new tab and providing the main link the user will need to get involved in the community, placed in the center for this reason.
+    + **Social media links**: Which will take you to the various social media connnections for the Discord. (These links will point to the homepage for the associated social media site as the brand's socials do not exist at this point in time).
 
     Included in the **modal** is:
 
@@ -200,12 +200,12 @@ To keep with the intended consistent styling I have used the same two fonts from
 
     Included in the **index.html** page is:
 
-    + **Introduction paragraph**: a brief introduction to the website and what the community is about and a prompt to expand the information below.
+    + **Introduction paragraph**: A brief introduction to the website and what the community is about and a prompt to expand the information below.
     + **Overview section**: Showcases everything that you can do within the website and provides links to every page. This section is hidden upon page load to not overload the user with information.
 
     Included in the **about.html** page is:
 
-    + **Community principles**: Contains the 4 major areas (with associcated icons for intuitive browsing) of what the community is about and why you would want to be a part of it.
+    + **Community principles**: Contains the 4 major areas (with associated icons for intuitive browsing) of what the community is about and why you would want to be a part of it.
     + **Player Feedback**: Contains reviews from current active players from the community. It also displays their rank for providing context to a potential user reading.
 
     Included in the **tournaments.html** page is:
@@ -235,7 +235,7 @@ To keep with the intended consistent styling I have used the same two fonts from
 
 ### Frameworks, libraries and programs
 + [Bootstrap](https://getbootstrap.com/) - The Bootstrap framework is being used to style, organize and position content using the grid system. It also handles the JavaScript for the user profiles modal.
-+ [Google Fonts](https://fonts.google.com/) - I used two fonts from the Google fonts library; "Lobster Two" and "Arvo".
++ [Google Fonts](https://fonts.google.com/) - I used two fonts from the Google fonts library - "Lobster Two" and "Arvo".
 + [Font Awesome](https://fontawesome.com/) - I used the Font Awesome icon library to provide icons for my mobile nav menu, my overview headings and my footer links. 
 + [GitPod](https://gitpod.io) - GitPod was the online IDE (Integrated Development Engine) I used to develop this site.
 + [Git](https://git-scm.com) - Git is an open source version control system where you can commit changes to the associated Github repository and push changes to Github pages.
@@ -261,9 +261,9 @@ I created a separate file for the testing process which can be located [here](TE
 ### Project Inception
 
 1. This project was created using [GitHub](https://github.com) and Code Institutes project template [here](https://github.com/Code-Institute-Org/gitpod-full-template) by clicking "Use this template".
-2. I named this project "Trash Tournaments" as it is the name of the discord being advertised.
+2. I named this project "Trash Tournaments" as it is the name of the Discord being advertised.
 3. Once the repository had been created I clicked the "Gitpod" button which is a Firefox extension ([here](https://addons.mozilla.org/en-GB/firefox/addon/gitpod/)) that creates a workspace within GitPod which is where I coded the project.
-4. Following [Code Institute's](https://codeinstitute.net/) lessons the 4 main commands I used were;
+4. Following [Code Institute's](https://codeinstitute.net/) lessons the 4 main commands I used were:
     + ```git status``` (which allows me to check which files have been modified and if any are ready to be committed)
     + ```git add .``` (which adds all changed files within my project's directory to be committed)
     + ```git commit -m "[TYPE] Reason"``` (which commits all changes to my project using a category prefix and a specific reason for that commit)
@@ -297,9 +297,9 @@ The live link for the site is here: [https://joeyyscott.github.io/Trash-Tourname
 
 ### Content
 
-This section includes areas/sections of code and properties I was unaware of. I've also included sources from where I've adapted/changed code used in the projects throughout my course as I figured it was better practice to state as such to avoid any penalizations or copyright violations.
+This section includes areas/sections of code and properties I was unaware of. I have also included sources from where I have adapted/changed code used in the projects throughout my course as I figured it was better practice to state as such to avoid any penalizations or copyright violations.
 
-+ Tournaments page / CSS - The timeline used the Tournaments page is an adapted version of the timeline used in Code Institute's mini project for [Rosies Resume](https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4). I've never coded this feature before but felt it would make an effective way to display information about the Tournaments' including time, date and description.
++ Tournaments page / CSS - The timeline used the Tournaments page is an adapted version of the timeline used in Code Institute's mini project for [Rosies Resume](https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4). I have never coded this feature before but felt it would make an effective way to display information about the Tournaments' including time, date and description.
 + Player Feedback / html/CSS - I wanted to use the quotes section from the [Whiskey Drop](https://github.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4) project and ended up adapting my code to my needs. I wanted to display information from players in this way but further along the development process I made the decision to show images on all devices and on the same line but thought it best to include this in my citations.
 + My responsive navbar is an adapted version from Bootstrap [here](https://getbootstrap.com/docs/4.0/components/navbar/).
 
