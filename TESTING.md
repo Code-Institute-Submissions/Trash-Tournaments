@@ -23,6 +23,26 @@ Contact page (contact.html)
 + The only warning received across all pages was about using h1 as a top level element only.
     + The warning was ignored as they were design decisions.
 
+Upon reflection I ended up reorganizing my code and adding in classes to scale my elements instead of using heading elements.
+
+Here is my updated testing of my HTML code;
+
+Home page (index.html)
+
+![Home Page Validation](readme-images/index-test2.png)
+
+About page (about.html)
+
+![About Page Validation](readme-images/about-test2.png)
+
+Tournaments page (tournaments.html)
+
+![Tournaments Page Validation](readme-images/tournaments-test2.png)
+
+Contact page (contact.html)
+
+![Contact Page Validation](readme-images/contact-test2.png)
+
 I used [w3.org's validator](https://jigsaw.w3.org/css-validator/) for my CSS validation checks.
 
 CSS (style.css)
@@ -33,7 +53,7 @@ CSS (style.css)
 
 ### Responsiveness
 
-To test the responsiveness of the site I used [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) and [Responsive Design Checker](https://www.responsivedesignchecker.com/).
+To test the responsiveness of the site I used [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools), [Firefox Devtools](https://developer.mozilla.org/en-US/docs/Tools) and [Responsive Design Checker](https://www.responsivedesignchecker.com/).
 
 Responsiveness (website layout)
 
