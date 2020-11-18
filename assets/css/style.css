@@ -336,11 +336,14 @@ label {
 
 .modal-title {
     margin: auto;
-    font-size: 5vw;
+    font-size: 6vw;
+    color: #d4af37;
+    font-weight: bold;
 }
 
 .modal-text {
     padding: 1vh 0;
+    font-size: 3.5vw;
 }
 
 .modal-content {
@@ -350,6 +353,10 @@ label {
 
 .modal-header {
     border-bottom: 1px solid #d4af37;
+}
+
+.modal-tagline {
+    font-size: 5vw;
 }
 
 .modal-footer {
@@ -378,16 +385,16 @@ label {
 }
 
 @media screen and (min-width: 768px) {
-    p, .form-text {
+    p, .form-text, .modal-text {
         font-size: 2vw;
     }
-    h1, .brand-title {
+    h1, .modal-title, .brand-title {
         font-size: 4vw;
     }
-    h2, .modal-title, .tournament-object, .brand-motto {
+    h2, .tournament-object, .brand-motto {
         font-size: 3vw;
     }
-    h3, label, .modal-banner, .intro-subheader {
+    h3, label, .modal-banner, .modal-tagline, .intro-subheader {
         font-size: 2.5vw;
     }
     .navbar-dark .navbar-nav .nav-link {
@@ -406,10 +413,10 @@ label {
         width: 80vw;
         left: 10vw;
     }
-    p, .feedback-text, .tournament-object, .form-text, .principle-text {
+    p, .feedback-text, .tournament-object, .form-text, .principle-text, .modal-text {
         font-size: 0.75vw;
     }
-    h1, h2, h3, .footer-text, label, .modal-banner, .intro-text, .index-btn, .brand-title, .brand-motto {
+    h1, h2, h3, .footer-text, label, .modal-title, .modal-banner, .modal-tagline, .intro-text, .index-btn, .brand-title, .brand-motto {
         font-size: 1.5vw;
     }
     .navbar-dark .navbar-nav .nav-link {
@@ -430,7 +437,7 @@ label {
     .modal-content {
         width: 100%;
     }
-    .modal-title, .intro-header {
+    .intro-header {
         font-size: 2.25vw;
     }
     .modal-text {
