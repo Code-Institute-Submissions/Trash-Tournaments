@@ -61,17 +61,12 @@ body {
 /* ---------- Core Styling */
 
 .ttstyle {
-    background-color: #2274a5;
-    border: 1px solid #d4af37;
-}
-
-.ttstyle-fade {
-    background-color: rgba(34, 116, 165, 0.75);
+    background-color: #006494;
     border: 1px solid #d4af37;
 }
 
 .heading {
-    background-color: rgba(34, 116, 165, 0.75);
+    background-color: #006494;
     width: max-content;
     margin: 0 auto 1vh;
     padding: 0.25vw;
@@ -169,13 +164,6 @@ a:hover {
 
 .social-icon {
     padding-right: 8px;
-}
-
-/* ---------- Home page */
-
-.intro-text {
-    background-color: rgba(34, 116, 165, 0.75);
-    border: 1px solid #d4af37;
 }
 
 /* ---------- About Page */
@@ -393,10 +381,6 @@ label {
     }
     .navbar-nav {
         top: 2.85vh;
-    }
-    .intro-text {
-        background-color: transparent;
-        border: none;
     }
 }
 
