@@ -179,7 +179,7 @@ a:hover {
 /* ---------- Home page */
 
 .intro-text {
-    padding: 1vh 1vw 0;
+    padding: 1vh 1vw;
 }
 
 .intro-subheader {
@@ -436,7 +436,7 @@ label {
     .navbar-nav {
         top: 2.85vh;
     }
-    .faq-question {
+    .faq-question, .index-btn {
         font-size: 3.5vw;
     }
 }
@@ -464,7 +464,7 @@ label {
     .header-img, .footer-img {
         width: 5vw;
     }
-    .signup-guide,  .intro-text {
+    .signup-guide {
         font-size: 1.25vw;
     }
     .signup-logo {
@@ -476,7 +476,7 @@ label {
     .intro-header, .index-btn, .stuck-btn {
         font-size: 2.25vw;
     }
-    .modal-text {
+    .modal-text, .intro-text {
         font-size: 1vw;
     }
     .navbar-nav {

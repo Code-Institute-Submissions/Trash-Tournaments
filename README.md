@@ -122,7 +122,7 @@ F. User posted testimonials | 1 | 2
 
 + What do they actually need?
 
-    The Discord owners could have their needs and more fulfilled by using a mobile first approach to a fully responsive website which would allow for easy navigation, use and no diminished experiences on all viewport sizes. Clear simplistically designed pages and sections to draw attention to all the features offered (About, Tournaments and FAQ/contact) which allows new users to become familiarized with the environment in use by the current players and encourage them to get involved. Within the Tournaments' section, display dates and times in the time zone GMT with a converter allowing all users to check what tournament times are convenient for them. Include a description for the type of tournament (regular, extra modes, training) to ensure users are receiving the correct information should they wish to get involved.
+    The Discord owners could have their needs and more fulfilled by using a mobile first approach to a fully responsive website which would allow for easy navigation, use and no diminished experiences on all viewport sizes. Clear simplistically designed pages and sections to draw attention to all the features offered (About, Tournaments and FAQ/contact) which allows new users to become familiarized with the environment in use by the current players and encourage them to get involved. Within the Tournaments' section, display dates and times in the time zone GMT with a converter which allows all users to check what tournament times are convenient for them. Include a description for the type of tournament (regular, extra modes, training) to ensure users are receiving the correct information should they wish to get involved.
 
 + What don’t they know they need?
 
