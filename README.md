@@ -2,7 +2,9 @@
 
 [View a live version of the site here.](https://joeyyscott.github.io/Trash-Tournaments/)
 
-Trash Tournaments is a personal community discord aimed at helping peope improve at the game [Rocket League](https://www.rocketleague.com/). It is owned by me and a few friends and for Milestone Project 1 why not create a site that will get used?
+I have created this project (Milestone project 1) as part of my Full Stack Web Development course with [Code Institute](https://codeinstitute.net/).
+
+Trash Tournaments is a personal community discord aimed at helping people improve at the game [Rocket League](https://www.rocketleague.com/). It is owned by me and a few friends. For Milestone Project 1 I thought why not create a site that will get used?
 
 ![Am I responsive screenshot](readme-images/amiresponsive.png)
 
@@ -41,7 +43,7 @@ ___
 
 ### Project Goals
 
-The idea is to create a static front-end only website consisting of 5 pages to advertise a non competitive [Rocket League](https://www.rocketleague.com/) tournament discord. The basis for this idea is being a veteran Rocket League player myself I know first-hand the bad experiences a user can encounter. The Discord itself is run by me. I consulted with a few friends and proposed the idea to them to give me an idea of requirements, needs and what they would expect/desire from such a product.
+The idea is to create a static front-end only website consisting of 4 pages to advertise a non competitive [Rocket League](https://www.rocketleague.com/) tournament discord. The basis for this idea is being a veteran Rocket League player myself I know first-hand the bad experiences a user can encounter. The Discord itself is run by me. I consulted with a few friends and proposed the idea to them to give me an idea of requirements, needs and what they would expect/desire from such a product.
 
 ### Content Requirements
 
@@ -49,7 +51,7 @@ The idea is to create a static front-end only website consisting of 5 pages to a
 
     **Strategy for requirement**:
     
-    The only graphic that has been given is the discord logo. Due to this, it is the main inspiration for the design as it returns you to the home page. The suggested colour scheme is: white, blue and gold. These 3 colours will create a consistent style for the website and thus the brand.
+    The only graphic that has been given is the discord logo. Due to this, it is the main inspiration for the design as it returns you to the home page. The suggested colour scheme is: gold, blue and white. These 3 colours will create a consistent style for the website and thus the brand.
 
     I have conducted interviews with the administrators as well as a few current players which provided the information to fill the home page, about section and FAQ. I also received information on how the tournaments will be structured time zone wise which provides a basis for the tournaments' timetable page.
 
@@ -69,14 +71,14 @@ The idea is to create a static front-end only website consisting of 5 pages to a
     
     Establishing a solid brand image from the Discord's ethos, active players and purpose creates the welcoming environment for new users. This paired with people who are looking to improve provides a mentally positive and encouraging environment associated with the brand. I have added a quick overview of the about page on the homepage to further reinforce that environment.
 
-    People playing [Rocket League](https://www.rocketleague.com/) either own a console, pc or both. 66.6% (console) of players may not own a PC/laptop. This is an important consideration as this is potentially 2/3rds of the target audience. Due to this the website will be constructed with a mobile first design approach to utilize the time a potential user spends on the site by providing only the essential information whilst maintaining the style, layout and intuitive browsing. This allows all users (mobile, tablet, PC) to receive a similar but optimized experience which maintains the brand image across all devices. The navigation menu will be central fixed to the top with taglines to provide additional info; however on mobile devices the menu will collapse into a ‘hamburger’ icon as these devices have less screen real estate. All versions will include eye catching fonts, a fitting colour scheme (active pages, links, hovers, etc) and utilizing modern conventions consistently to maintain a satisfying user experience. Using a sleek design will catch the attention of new visitors as it looks professional and provides a positive brand image.
+    People playing [Rocket League](https://www.rocketleague.com/) either own a console, pc or both. 66.6% (console) of players may not own a PC/laptop. This is an important consideration as this is potentially 2/3rds of the target audience. Due to this the website will be constructed with a mobile first design approach to utilize the time a potential user spends on the site by providing only the essential information whilst maintaining the style, layout and intuitive browsing. This allows all users (mobile, tablet, PC) to receive a similar but optimized experience which maintains the brand image across all devices. The navigation menu will be central fixed to the top with taglines to provide additional information; however on mobile devices the menu will collapse into a ‘hamburger’ icon as these devices have less screen real estate. All versions will include eye catching fonts, a fitting colour scheme (active pages, links, hovers, etc) and utilizing modern conventions consistently to maintain a satisfying user experience. Using a sleek design will catch the attention of new visitors as it looks professional and provides a positive brand image.
 
 + What does the user expect from such a website?
 
     **Strategy for requirement**: 
     + **What is this?** - Product branding/style must be consistent across all pages and easily recognizable throughout the website.
     + **Expectations of User?** - Active player base, promising reviews, information on all critical areas. Tournament times/dates, how to get involved and a way to contact the owners should they be stuck.
-    + **Does it offer what I want?** - Friendly environment to improve, higher ranks willing to help, finding people to play with who have similar interests. (wanting to improve, play as a team, etc)
+    + **Does it offer what I want?** - Friendly environment to improve, higher ranks willing to help, finding people to play with who have similar interests (wanting to improve, play as a team, etc).
     + **Does it encourage new users and existing users to stay/return?** - All call to action buttons and links open up in a new tab to maintain user retention. On the homepage there is evidence of all the content within the site in a shortened version; current users, users' learning experiences in the About page, a variety of information/content presented to promote the Discord's ethos and community which entices new users as they can see others already benefitting from it.
 
 ### Importance and Feasibility chart
@@ -109,18 +111,18 @@ F. User posted testimonials | 1 | 2
     + As a **site owner** I want users to clearly see there are people willing to play with and help them improve at [Rocket League](https://www.rocketleague.com/).
     + As a **site owner** I want an organized, intuitive navigation system across all pages.
     + As a **site owner** I want users to see input from people who have participated and their respective ranks.
-    + As a **site owner** I want to include information of upcoming tournaments with conversions for major time zones.
+    + As a **site owner** I want to include information of upcoming tournaments with a way to convert the schedule for any users time zone.
     + As a **site owner** I want any user to be able to easily contact me with their details and query for more information.
 
 ### What is needed now and in future?
 
 + What do they say they need?
 
-    The Discord owners want an aesthetically pleasing and professional website to reinforce their ethos and give a concise but detailed description of everything the Discord has to offer. A section in the About page to contain player reviews of the Discord to provide reassurance that anyone, even a Bronze player can and has benefitted from the experience. This includes their rank, learning experience and their recommendation out of 10 which attracts new users and allows current users to be inspired and motivated by other’s experiences.
+    The Discord owners want an aesthetically pleasing and professional website to reinforce their ethos and give a concise but detailed description of everything the Discord has to offer. There will be a player feedback section in the About page to provide reassurance that anyone, even a Bronze player can and has benefitted from the experience. This includes their rank, learning experience and their recommendation out of 10 which attracts new users and allows current users to be inspired and motivated by other’s experiences.
 
 + What do they actually need?
 
-    The Discord owners could have their needs and more fulfilled by using a mobile first approach to a fully responsive website which would allow for easy navigation, use and no diminished experiences on all viewport sizes. Clear simplistically designed pages and sections to draw attention to all the features offered (About, Tournaments and FAQ/contact) which allows new users to become familiarized with the environment in use by the current players and encourage them to get involved. Within the Tournaments' section, display dates and times in the time zone GMT with a converter that allows all users to check when it is for them. Include a description for the type of tournament (regular, extra modes, training) to ensure users are receiving the correct information for where they wish to get involved.
+    The Discord owners could have their needs and more fulfilled by using a mobile first approach to a fully responsive website which would allow for easy navigation, use and no diminished experiences on all viewport sizes. Clear simplistically designed pages and sections to draw attention to all the features offered (About, Tournaments and FAQ/contact) which allows new users to become familiarized with the environment in use by the current players and encourage them to get involved. Within the Tournaments' section, display dates and times in the time zone GMT with a converter that allows all users to check when it is for them. Include a description for the type of tournament (regular, extra modes, training) to ensure users are receiving the correct information should they wish to get involved.
 
 + What don’t they know they need?
 
@@ -152,7 +154,9 @@ To maintain a good user experience, consistent styling throughout the site using
 
 ![Colour Scheme](readme-images/colourscheme.png)
 
-After a quick Google search I found a great tool called [coolors.co](https://coolors.co/) which I used to create this colour scheme. From the strategy section feedback, it was decided to be blue, white and gold. I picked the gold and darker blue from the logo given, I decided to use a second lighter shade of blue (using the sites generator) to create visual identification to the user about state changes of elements. The final colour chosen was off-white to provide a neutral colour for text.
+After a quick Google search I found a great tool called [coolors.co](https://coolors.co/) which I used to create this colour scheme. From the strategy section feedback it was decided to be gold, blue and white. I picked the gold and darker blue from the logo given. 
+
+I am using the gold as the main colour and the dark blue to provide visual identification to the user about state changes of elements. I decided to use a second lighter shade of blue (using the sites generator) to create the background colour as I felt this would provide a better contrast than the darker blue. The final colour chosen was off-white to provide a neutral colour for text as well as visual identification to the user about the page they're currently browsing.
 
 #### Images
 
@@ -172,8 +176,10 @@ To keep with the intended consistent styling I have used the same two fonts from
 
 ### Design changes
 
-+ Originally I was going to use the standard navbartoggler icon from BootStrap but decided to use a font awesome icon inside my span element of the button. It doesn't seem to affect my site as it stands, I used a trash can icon to build the Brand's presence.
++ Originally I was going to use the standard navbartoggler icon from BootStrap but decided to use a font awesome icon inside my span element of the button. It does not seem to affect my site as it stands so I used a trash can icon to build the Brand's presence.
     + EDIT: I ended up designing a nav logo using the 3 lines of a conventional hamburger icon and have used this instead.
++ I had originally used #2274a5 as my background colour but after checking accessibility options I found out it was not a great contrast.
+
 
 #### [Back to top](#contents)
 
@@ -183,7 +189,7 @@ To keep with the intended consistent styling I have used the same two fonts from
 
 + ### Existing Features
 
-    The header, footer and modal remain the same across pages to maintain a consistent style.
+    The header, footer and modal remain the same across all pages to maintain a consistent style.
 
     Included in the **header** is: 
 
@@ -227,7 +233,7 @@ To keep with the intended consistent styling I have used the same two fonts from
 
     **NOTES**:
     
-    > This page was added as I was going through my project against the Assessment Handbook 2020. Upon doing so I noticed there was a section in the Distinction performance that reads "users who direct to a non-existence page or resource are redirected back to the main page without having to use the browser navigation buttons". This method was pinned in the [Code Institute's](https://codeinstitute.net/) Slack community about how to add a 404 page.
+    This page was added as I was going through my project against the Assessment Handbook 2020. Upon doing so I noticed there was a section in the Distinction performance that reads "users who direct to a non-existence page or resource are redirected back to the main page without having to use the browser navigation buttons". This method was pinned in the [Code Institute's](https://codeinstitute.net/) Slack community about how to add a 404 page.
     
     Simply add a 404.md file and place:
     ```
@@ -237,12 +243,12 @@ To keep with the intended consistent styling I have used the same two fonts from
     ```
     Within the file, then add content to 404.html to redirect the user back to index.html.
 
-    I'm not sure on the full functionality of such a feature but I wanted to at least attempt this part of the project as I'm aiming for Distinction.
+    I am not sure on the full functionality of such a feature but I wanted to at least attempt this part of the project as I am aiming for Distinction.
 
 + ### Features to be added
 
     + **User profiles**: This would require a signup page, user accounts and a way to faciliate this process.
-    + **User posted feedback**: From speaking to users in my UX design section being able to add their own feedback is a favourable feature. (This would also require user profiles)
+    + **User posted feedback**: From speaking to users in my UX design section being able to add their own feedback is a favourable feature. This would also require user profiles to function as intended.
 
 #### [Back to top](#contents)
 
@@ -261,9 +267,10 @@ To keep with the intended consistent styling I have used the same two fonts from
 + [GitPod](https://gitpod.io) - GitPod was the online IDE (Integrated Development Engine) I used to develop this site.
 + [Git](https://git-scm.com) - Git is an open source version control system where you can commit changes to the associated Github repository and push changes to Github pages.
 + [coolors.co](https://coolors.co) - I used this tool to generate a colour scheme based on the two colours I had.
-+ [Colorhexa](https://www.colorhexa.com/) - I used this tool to give me the RGB values of my light blue colour for the ttstyle-fade class.
++ [Colorhexa](https://www.colorhexa.com/) - I used this tool to give me the RGB values of my light blue colour for the ttstyle-fade class (This class has such been removed but the technology was used in the development process and thus remained).
 + [GIMP](https://www.gimp.org) - I used this program to design the navigation menu, footer icons and wireframes.
-+ [Am I Responsive?](http://ami.responsivedesign.is/) - I used this tool to easily display the responsiveness of my site for my README.md intro.
++ [Am I Responsive?](http://ami.responsivedesign.is/) - I used this tool to easily display the responsiveness of my site for my README.md introduction.
++ [Accessible Color Generator](https://learnui.design/tools/accessible-color-generator.html) - I used this tool to find an alternate background colour (using my previous colours) to provide a better colour contrast for accessibility. 
 
 #### [Back to top](#contents)
 
@@ -320,7 +327,7 @@ The live link for the site is here: [https://joeyyscott.github.io/Trash-Tourname
 
 This section includes areas/sections of code and properties I was unaware of. I have also included sources from where I have adapted/changed code used in the projects throughout my course as I figured it was better practice to state as such to avoid any penalizations or copyright violations.
 
-+ Tournaments page / html/CSS - The timeline used the Tournaments page is an adapted version of the timeline used in Code Institute's mini project for [Rosies Resume](https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4). I have never coded this feature before but felt it would make an effective way to display information about the Tournaments' including time, date and description.
++ Tournaments page / html/CSS - The timeline used the Tournaments page is an adapted version of the timeline used in Code Institute's mini project for [Rosies Resume](https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4). I have never coded this feature before but felt it would make an effective way to display information about the Tournaments including time, date and description.
 + Player Feedback / html - I wanted to use the quotes section from the [Whiskey Drop](https://github.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4) project and ended up adapting my code to my needs. I wanted to display information from players in this way but further along the development process I made the decision to show images on all devices and on the same line but thought it best to include this in my citations.
 + My responsive navbar is an adapted version from Bootstrap [here](https://getbootstrap.com/docs/4.0/components/navbar/).
 

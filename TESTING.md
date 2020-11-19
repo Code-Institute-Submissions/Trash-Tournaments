@@ -2,56 +2,56 @@
 
 ### Code validators
 
-I used [w3.org's validator](https://validator.w3.org/) for my HTML validation checks.
+I used [w3.org's validator](https://validator.w3.org/) for my HTML validation checks, here are my results:
 
-Home page (index.html)
++ Home page (index.html)
 
-![Home Page Validation](readme-images/index-test.png)
+    ![Home Page Validation](readme-images/index-test.png)
 
-About page (about.html)
++ About page (about.html)
 
-![About Page Validation](readme-images/about-test.png)
+    ![About Page Validation](readme-images/about-test.png)
 
-Tournaments page (tournaments.html)
++ Tournaments page (tournaments.html)
 
-![Tournaments Page Validation](readme-images/tournaments-test.png)
+    ![Tournaments Page Validation](readme-images/tournaments-test.png)
 
-Contact page (contact.html)
++ Contact page (contact.html)
 
-![Contact Page Validation](readme-images/contact-test.png)
+    ![Contact Page Validation](readme-images/contact-test.png)
 
 + The only warning received across all pages was about using h1 as a top level element only.
     + The warning was ignored as they were design decisions.
 
 Upon reflection I ended up reorganizing my code and adding in classes to scale my elements instead of using heading elements.
 
-Here is my updated testing of my HTML code;
+Here is my updated testing of my HTML code using the same validator:
 
-Home page (index.html)
++ Home page (index.html)
 
-![Home Page Validation](readme-images/index-test2.png)
+    ![Home Page Validation](readme-images/index-test2.png)
 
-About page (about.html)
++ About page (about.html)
 
-![About Page Validation](readme-images/about-test2.png)
+    ![About Page Validation](readme-images/about-test2.png)
 
-Tournaments page (tournaments.html)
++ Tournaments page (tournaments.html)
 
-![Tournaments Page Validation](readme-images/tournaments-test2.png)
+    ![Tournaments Page Validation](readme-images/tournaments-test2.png)
 
-Contact page (contact.html)
++ Contact page (contact.html)
 
-![Contact Page Validation](readme-images/contact-test2.png)
+    ![Contact Page Validation](readme-images/contact-test2.png)
 
-Error 404 page (404.html)
++ Error 404 page (404.html)
 
-![Error Page Validation](readme-images/error-test.png)
+    ![Error Page Validation](readme-images/error-test.png)
 
 I used [w3.org's validator](https://jigsaw.w3.org/css-validator/) for my CSS validation checks.
 
-CSS (style.css)
++ CSS (style.css)
 
-![CSS Validation](readme-images/css-test.png)
+    ![CSS Validation](readme-images/css-test.png)
 
 + No errors were found within the document.
 
@@ -113,7 +113,7 @@ Notes:
         + On smaller devices upon pressing the menu icon the user will see all the pages on the site and an associated icon.
     + As a **first time user** I want to understand the purpose of the site upon loading it.
         + Upon loading the site the user will land on index.html and be greeted with the header "Looking for a new kind of Rocket League experience?"
-        + There are 3 subheaders and an intro paragraph to give the user some more information on the website's purpose and directs them to press the button below.
+        + There are 3 subheaders and an introduction paragraph to give the user some more information on the website's purpose and directs them to press the button below.
         + The button expands the website overview which shows a description of and a link to each page of the site.
     + As a **first time user** I want to be able to easily view information about the Discord on any screen size.
         + I have tested the website across multiple screen sizes and have found no issues thus far.
@@ -135,7 +135,7 @@ Notes:
 - #### Site Owner Goals
 
     + As a **site owner** I want the landing page (index.html) to clearly provide all information needed about the site's purpose and what is available.
-        + When I visit the website I can see the intro section and expand button clearly.
+        + When I visit the website I can see the introduction section and expand button clearly.
         + In the overview section I can find out about every page within the site and see what is being offered to me.
     + As a **site owner** I want any user to receive the correct information for the viewport they are currently on.
         + I have tested the website across multiple screen sizes and have found no issues thus far with content displaying or appearing incorrectly.
@@ -150,9 +150,9 @@ Notes:
             + Provides clear identification to the user about which page they are currently on.
     + As a **site owner** I want users to see input from people who have participated and their respective ranks.
         + On about.html users can read reviews from players within our community and their rank is displayed after their name.
-    + As a **site owner** I want to include information of upcoming tournaments with conversions for major time zones.
+    + As a **site owner** I want to include information of upcoming tournaments with a way to convert the schedule for any users time zone.
         + On tournaments.html users can view the tournament timeline which displays the times of the next 4 occuring tournaments.
-        + Underneath the main intro paragraph on the timeline there is a disclaimer that times are posted in GMT and includes a link to a timezone converter tool.
+        + Underneath the main introduction paragraph on the timeline there is a disclaimer that times are posted in GMT and includes a link to a timezone converter tool.
     + As a **site owner** I want any user to be able to easily contact me with their details and query for more information.
         + On contact.html there is a form that can be filled out with a user's name, email and query which can be sent to the owner upon the user pressing the submit button.
         + There is validation on the form too to prevent junk query submissions.
