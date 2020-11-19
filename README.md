@@ -79,7 +79,7 @@ The idea is to create a static front-end only website consisting of 4 pages to a
     + **What is this?** - Product branding/style must be consistent across all pages and easily recognizable throughout the website.
     + **Expectations of User?** - Active player base, promising reviews, information on all critical areas. Tournament times/dates, how to get involved and a way to contact the owners should they be stuck.
     + **Does it offer what I want?** - Friendly environment to improve, higher ranks willing to help, finding people to play with who have similar interests (wanting to improve, play as a team, etc).
-    + **Does it encourage new users and existing users to stay/return?** - All call to action buttons and links open up in a new tab to maintain user retention. On the homepage there is evidence of all the content within the site in a shortened version; current users, users' learning experiences in the About page, a variety of information/content presented to promote the Discord's ethos and community which entices new users as they can see others already benefitting from it.
+    + **Does it encourage new users and existing users to stay/return?** - All call to action buttons and links open up in a new tab to maintain user retention. On the homepage there is evidence of all the content within the site in a shortened version. This includes current users' learning experiences in the About page, information about Tournaments and a variety of information/content presented to promote the Discord's ethos and community which entices new users as they can see others already benefitting from it.
 
 ### Importance and Feasibility chart
 
@@ -111,7 +111,7 @@ F. User posted testimonials | 1 | 2
     + As a **site owner** I want users to clearly see there are people willing to play with and help them improve at [Rocket League](https://www.rocketleague.com/).
     + As a **site owner** I want an organized, intuitive navigation system across all pages.
     + As a **site owner** I want users to see input from people who have participated and their respective ranks.
-    + As a **site owner** I want to include information of upcoming tournaments with a way to convert the schedule for any users time zone.
+    + As a **site owner** I want to include information of upcoming tournaments with a way to convert the schedule for any user's time zone.
     + As a **site owner** I want any user to be able to easily contact me with their details and query for more information.
 
 ### What is needed now and in future?
@@ -122,7 +122,7 @@ F. User posted testimonials | 1 | 2
 
 + What do they actually need?
 
-    The Discord owners could have their needs and more fulfilled by using a mobile first approach to a fully responsive website which would allow for easy navigation, use and no diminished experiences on all viewport sizes. Clear simplistically designed pages and sections to draw attention to all the features offered (About, Tournaments and FAQ/contact) which allows new users to become familiarized with the environment in use by the current players and encourage them to get involved. Within the Tournaments' section, display dates and times in the time zone GMT with a converter that allows all users to check when it is for them. Include a description for the type of tournament (regular, extra modes, training) to ensure users are receiving the correct information should they wish to get involved.
+    The Discord owners could have their needs and more fulfilled by using a mobile first approach to a fully responsive website which would allow for easy navigation, use and no diminished experiences on all viewport sizes. Clear simplistically designed pages and sections to draw attention to all the features offered (About, Tournaments and FAQ/contact) which allows new users to become familiarized with the environment in use by the current players and encourage them to get involved. Within the Tournaments' section, display dates and times in the time zone GMT with a converter allowing all users to check what tournament times are convenient for them. Include a description for the type of tournament (regular, extra modes, training) to ensure users are receiving the correct information should they wish to get involved.
 
 + What don’t they know they need?
 
@@ -178,7 +178,7 @@ To keep with the intended consistent styling I have used the same two fonts from
 
 + Originally I was going to use the standard navbartoggler icon from BootStrap but decided to use a font awesome icon inside my span element of the button. It does not seem to affect my site as it stands so I used a trash can icon to build the Brand's presence.
     + EDIT: I ended up designing a nav logo using the 3 lines of a conventional hamburger icon and have used this instead.
-+ I had originally used #2274a5 as my background colour but after checking accessibility options I found out it was not a great contrast. I switched to #006494 to adhere to AA guidelines. Upon doing further research I found out about AAA guidelines and thus settled on #004976 to make sure I was adhering to both.
++ I had originally used #2274a5 as my background colour but after checking accessibility options I realized it was not a great contrast. I switched to #006494 to adhere to AA guidelines. Upon doing further research I came across AAA guidelines and thus settled on #004976 to make sure I was adhering to both.
 
 
 #### [Back to top](#contents)
@@ -224,11 +224,11 @@ To keep with the intended consistent styling I have used the same two fonts from
     Included in the **contact.html** page is:
 
     + **FAQs**: Includes the most commonly asked questions to aid users who may experience difficulty.
-    + **Contact Form**: Can be filled out with a name, email and message query (with associated validation) and submitted to contact the Discord owners. (Currently due to no JavaScript the form cannot store or send data.)
+    + **Contact Form**: Can be filled out with a name, email and message query (with associated validation) and submitted to contact the Discord owners. Currently due to no JavaScript the form cannot store or send data.
 
     Included in the **404.html** page is:
     
-    + A message telling the user they have accessed a page which doesn't exist.
+    + A message telling the user they have accessed a page which does not exist.
     + A button which is linked to index.html that prompts them to return to the site.
 
     **NOTES**:
@@ -302,7 +302,7 @@ I created a separate file for the testing process which can be located [here](TE
 To achieve deployment I used this process:
 
 1. After pushing my project to GitHub, I navigated and logged into the GitHub site.
-2. I then went to my repositories and selected the one associated to this project: [Trash Tournaments Repository](https://github.com/JoeyyScott/Trash-Tournaments)
+2. I then went to my repositories and selected the one associated to this project: [Trash Tournaments Repository](https://github.com/JoeyyScott/Trash-Tournaments).
 3. On the main repository bar I clicked "Settings" and scrolled to "Github Pages".
 4. Under "Source" dropdown box I selected "Master Branch" and clicked "Save".
 5. After the page refreshed I returned to the "Github Pages" section for the live link to the published site.

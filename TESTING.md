@@ -102,7 +102,7 @@ I tested the appearance and responsiveness of the website across 5 different bro
 
 Notes:
 
-+ Everything functions as expected and no issues that I could find.
++ Everything functions as expected with no issues that I could find.
 
 ### Testing User stories
 
@@ -122,7 +122,7 @@ Notes:
         + In the header you see the brands motto "Community, redefined" which tells the user the website is about a community.
         + The first header you see talks about Rocket League and combined with the first point tells the user they can find a community to play Rocket League with.
     + As a **first time user** I want to find out if other people have had experience with this website/Discord.
-        + In the overview section of index.html there is a description for the about page that includes "read reviews from some of our players" which directs them to about.html.
+        + In the overview section of index.html there is a description for the About page that includes "read reviews from some of our players" which directs them to about.html.
         + Once on about.html the user can view player feedback which contains 4 reviews from players within the Trash Tournaments community.
     + As a **first time user** I want to find information about upcoming tournaments.
         + In the overview section of index.html there is a description for the tournament page that includes "contains all tournament info" which directs them to tournaments.html.
@@ -150,7 +150,7 @@ Notes:
             + Provides clear identification to the user about which page they are currently on.
     + As a **site owner** I want users to see input from people who have participated and their respective ranks.
         + On about.html users can read reviews from players within our community and their rank is displayed after their name.
-    + As a **site owner** I want to include information of upcoming tournaments with a way to convert the schedule for any users time zone.
+    + As a **site owner** I want to include information of upcoming tournaments with a way to convert the schedule for any user's time zone.
         + On tournaments.html users can view the tournament timeline which displays the times of the next 4 occuring tournaments.
         + Underneath the main introduction paragraph on the timeline there is a disclaimer that times are posted in GMT and includes a link to a timezone converter tool.
     + As a **site owner** I want any user to be able to easily contact me with their details and query for more information.
