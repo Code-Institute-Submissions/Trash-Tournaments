@@ -339,9 +339,13 @@ The pictures used in this site (background image and rank icons) were obtained f
 
 ### Acknowledgments
 
-The [Code Institute](https://codeinstitute.net/) slack community for their ongoing support, help and patience with any queries I have.
+The [Code Institute](https://codeinstitute.net/) slack community for their ongoing support, help and patience with any queries I had pertaining to all aspects of the project.
 
-My mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for all of his help throughout our project calls. 
+My mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for all of his help throughout our project calls.
+
+My family and friends who have helped me test various different versions of the website throughout the development process and proof reading my README.md / TESTING.md files.
+
+On a final note, I have enjoyed working on this project and am excited for the next stage ahead of me in this [Full Stack Web Development course](https://codeinstitute.net/full-stack-software-development-diploma/). 
 
 #### [Back to top](#contents)
 
