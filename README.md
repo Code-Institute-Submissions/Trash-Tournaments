@@ -331,7 +331,7 @@ This section includes areas/sections of code and properties I was unaware of. I 
 + Tournaments page / html/CSS - The timeline used the Tournaments page is an adapted version of the timeline used in Code Institute's mini project for [Rosies Resume](https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4). I have never coded this feature before but felt it would make an effective way to display information about the Tournaments including time, date and description.
 + Player Feedback / html/CSS - I wanted to use the quotes section from the [Whiskey Drop](https://github.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4) project combining blockquotes with images and ended up adapting my code to my needs. Even though none of the original CSS code remains I have included a credit comment around this CSS section for the purpose of this part of the README.md file. I wanted to display information from players in this way but further along the development process I made the decision to show images on all devices and on the same line but thought it best to include this in my credits.
 + My responsive navbar is an adapted version from Bootstrap [here](https://getbootstrap.com/docs/4.0/components/navbar/).
-+ As stated in my technologies section I used [Fav Icon](https://favicon.io/) to convert the brand's logo to an icon and the website also provides the code for the ```<head>``` element to link the icon to the Site.
++ As stated in my technologies section I used [Fav Icon](https://favicon.io/favicon-converter/) to convert the brand's logo to an icon and the website also provides the code for the ```<head>``` element to link the icon to the Site.
 
 ### Media
 
