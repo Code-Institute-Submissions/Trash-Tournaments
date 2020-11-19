@@ -178,7 +178,7 @@ To keep with the intended consistent styling I have used the same two fonts from
 
 + Originally I was going to use the standard navbartoggler icon from BootStrap but decided to use a font awesome icon inside my span element of the button. It does not seem to affect my site as it stands so I used a trash can icon to build the Brand's presence.
     + EDIT: I ended up designing a nav logo using the 3 lines of a conventional hamburger icon and have used this instead.
-+ I had originally used #2274a5 as my background colour but after checking accessibility options I found out it was not a great contrast.
++ I had originally used #2274a5 as my background colour but after checking accessibility options I found out it was not a great contrast. I switched to #006494 to adhere to AA guidelines. Upon doing further research I found out about AAA guidelines and thus settled on #004976 to make sure I was adhering to both.
 
 
 #### [Back to top](#contents)
