@@ -115,7 +115,7 @@ Notes:
             | :-----------------------------------------------------------------------------------------------------------------------: |
             | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser1mobile.png) |
             | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser1tablet.png) |
-            |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firstimteuser1pc.png)     |
+            |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser1pc.png)     |
 
     + As a **first time user** I want to understand the purpose of the site upon loading it.
         + Upon loading the site the user will land on index.html and be greeted with the header "Looking for a new kind of Rocket League experience?"
@@ -125,7 +125,7 @@ Notes:
             | :-----------------------------------------------------------------------------------------------------------------------: |
             | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser2mobile.png) |
             | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser2tablet.png) |
-            |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firstimteuser2pc.png)     |
+            |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser2pc.png)     |
 
     + As a **first time user** I want to be able to easily view information about the Discord on any screen size.
         + I have tested the website across multiple screen sizes and have found no issues thus far.
@@ -139,7 +139,7 @@ Notes:
             | :-----------------------------------------------------------------------------------------------------------------------: |
             | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser4mobile.png) |
             | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser4tablet.png) |
-            |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firstimteuser4pc.png)     |
+            |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser4pc.png)     |
 
     + As a **first time user** I want to find out if other people have had experience with this website/Discord.
         + In the overview section of index.html there is a description for the About page that includes "read reviews from some of our players" which directs them to about.html.
@@ -148,7 +148,7 @@ Notes:
             | :-----------------------------------------------------------------------------------------------------------------------: |
             | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser5mobile.png) |
             | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser5tablet.png) |
-            |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firstimteuser5pc.png)     |
+            |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser5pc.png)     |
 
     + As a **first time user** I want to find information about upcoming tournaments.
         + In the overview section of index.html there is a description for the tournament page that includes "contains all tournament info" which directs them to tournaments.html.
@@ -157,7 +157,7 @@ Notes:
             | :-----------------------------------------------------------------------------------------------------------------------: |
             | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser6mobile.png) |
             | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser6tablet.png) |
-            |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firstimteuser6pc.png)     |
+            |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser6pc.png)     |
     
     + As a **first time user** I want to be able to contact the site owners for more information.
         + In the overview section of contact.html there is a description for the FAQ/contact page that includes "help answer your questions or contact us further" which directs them to contact.html.
@@ -167,7 +167,7 @@ Notes:
             | :-----------------------------------------------------------------------------------------------------------------------: |
             | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser7mobile.png) |
             | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser7tablet.png) |
-            |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firstimteuser7pc.png)     |
+            |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser7pc.png)     |
 
 - #### Site Owner Goals
 
