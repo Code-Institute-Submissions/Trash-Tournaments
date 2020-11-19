@@ -111,51 +111,119 @@ Notes:
     + As a **first time user** I want to be able to navigate through the whole site smoothly.
         + Wherever a user is on the website, the navigation is in a fixed place at the top of the site.
         + On smaller devices upon pressing the menu icon the user will see all the pages on the site and an associated icon.
+            |                                                    Navigation Menu                                                        |
+            | :-----------------------------------------------------------------------------------------------------------------------: |
+            | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser1mobile.png) |
+            | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser1tablet.png) |
+            |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firstimteuser1pc.png)     |
+
     + As a **first time user** I want to understand the purpose of the site upon loading it.
         + Upon loading the site the user will land on index.html and be greeted with the header "Looking for a new kind of Rocket League experience?"
         + There are 3 subheaders and an introduction paragraph to give the user some more information on the website's purpose and directs them to press the button below.
         + The button expands the website overview which shows a description of and a link to each page of the site.
+            |                                                      index.html                                                           |
+            | :-----------------------------------------------------------------------------------------------------------------------: |
+            | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser2mobile.png) |
+            | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser2tablet.png) |
+            |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firstimteuser2pc.png)     |
+
     + As a **first time user** I want to be able to easily view information about the Discord on any screen size.
         + I have tested the website across multiple screen sizes and have found no issues thus far.
-        + The index page provides all the essential information a first time user could require about the Discord. 
+        + The index page provides all the essential information a first time user could require about the Discord.
+        + Screenshots for this can be found across other user goals.
+
     + As a **first time user** I want to easily be able to find a community to play [Rocket League](https://www.rocketleague.com/) with.
         + In the header you see the brands motto "Community, redefined" which tells the user the website is about a community.
         + The first header you see talks about Rocket League and combined with the first point tells the user they can find a community to play Rocket League with.
+            |                                         Brand motto and first headers/taglines                                            |
+            | :-----------------------------------------------------------------------------------------------------------------------: |
+            | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser4mobile.png) |
+            | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser4tablet.png) |
+            |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firstimteuser4pc.png)     |
+
     + As a **first time user** I want to find out if other people have had experience with this website/Discord.
         + In the overview section of index.html there is a description for the About page that includes "read reviews from some of our players" which directs them to about.html.
         + Once on about.html the user can view player feedback which contains 4 reviews from players within the Trash Tournaments community.
+            |                                                Player Feedback Section                                                    |
+            | :-----------------------------------------------------------------------------------------------------------------------: |
+            | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser5mobile.png) |
+            | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser5tablet.png) |
+            |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firstimteuser5pc.png)     |
+
     + As a **first time user** I want to find information about upcoming tournaments.
         + In the overview section of index.html there is a description for the tournament page that includes "contains all tournament info" which directs them to tournaments.html.
         + Once on tournaments.html the user can view the tournament timeline which shows times, dates and a brief description of each tournament.
+            |                                          Tournament introduction and schedule                                             |
+            | :-----------------------------------------------------------------------------------------------------------------------: |
+            | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser6mobile.png) |
+            | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser6tablet.png) |
+            |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firstimteuser6pc.png)     |
+    
     + As a **first time user** I want to be able to contact the site owners for more information.
         + In the overview section of contact.html there is a description for the FAQ/contact page that includes "help answer your questions or contact us further" which directs them to contact.html.
         + Once on contact.html the user may have their answer resolved by the FAQ or they can fill out a form with their name, email and query to submit to the owners.
         + In the footer the left section contains "Contact us here/Get in touch" which redirects the user to contact.html which can be used across all pages.
+            |                                                     Contact Form                                                          |
+            | :-----------------------------------------------------------------------------------------------------------------------: |
+            | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser7mobile.png) |
+            | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firsttimeuser7tablet.png) |
+            |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/firstimteuser7pc.png)     |
 
 - #### Site Owner Goals
 
     + As a **site owner** I want the landing page (index.html) to clearly provide all information needed about the site's purpose and what is available.
         + When I visit the website I can see the introduction section and expand button clearly.
         + In the overview section I can find out about every page within the site and see what is being offered to me.
+            |                                             Overview section on index.html                                                |
+            | :-----------------------------------------------------------------------------------------------------------------------: |
+            | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/siteownergoal1mobile.png) |
+            | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/siteownergoal1tablet.png) |
+            |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/siteownergoal1pc.png)     |
     + As a **site owner** I want any user to receive the correct information for the viewport they are currently on.
         + I have tested the website across multiple screen sizes and have found no issues thus far with content displaying or appearing incorrectly.
-        + The "Menu" text does not show on larger devices as intended.
+        + The "Menu" text does not show on larger devices as intended which you can see on other screenshots.
     + As a **site owner** I want users to clearly see there are people willing to play with and help them improve at [Rocket League](https://www.rocketleague.com/).
         + On about.html there is a section displaying our main community principles which encapsulates that we are welcoming and have a vast amount of game knowledge we are willing to share.
+            |                                              Community Principles Section                                                 |
+            | :-----------------------------------------------------------------------------------------------------------------------: |
+            | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/siteownergoal3mobile.png) |
+            | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/siteownergoal3tablet.png) |
+            |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/siteownergoal3pc.png)     |
     + As a **site owner** I want an organized, intuitive navigation system across all pages.
         + The navigation menu on larger devices is positioned well and provides clear identification to the user about which page they are currently on and which link they are hovering over.
         + The navigation menu on smaller devices is:
             + Positioned well and can open/collapse efficiently.
             + Uses a Trash Can in the same style as the logo with the conventional 3 menu lines (with accompanying text).
-            + Provides clear identification to the user about which page they are currently on.
+            + Provides clear identification to the user about which page they are currently on (coloured with #FFFFEE).            
+                |                          Navigation across different pages to show current page is highlighted                            |
+                | :-----------------------------------------------------------------------------------------------------------------------: |
+                | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/siteownergoal4mobile.png) |
+                | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/siteownergoal4tablet.png) |
+                |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/siteownergoal4pc.png)     |
     + As a **site owner** I want users to see input from people who have participated and their respective ranks.
         + On about.html users can read reviews from players within our community and their rank is displayed after their name.
+            |                                                Player feedback section                                                    |
+            | :-----------------------------------------------------------------------------------------------------------------------: |
+            | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/siteownergoal5mobile.png) |
+            | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/siteownergoal5tablet.png) |
+            |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/siteownergoal5pc.png)     |
     + As a **site owner** I want to include information of upcoming tournaments with a way to convert the schedule for any user's time zone.
         + On tournaments.html users can view the tournament timeline which displays the times of the next 4 occuring tournaments.
         + Underneath the main introduction paragraph on the timeline there is a disclaimer that times are posted in GMT and includes a link to a timezone converter tool.
+            |                                              Upcoming Tournament schedule                                                 |
+            | :-----------------------------------------------------------------------------------------------------------------------: |
+            | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/siteownergoal6mobile.png) |
+            | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/siteownergoal6tablet.png) |
+            |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/siteownergoal6pc.png)     |
     + As a **site owner** I want any user to be able to easily contact me with their details and query for more information.
         + On contact.html there is a form that can be filled out with a user's name, email and query which can be sent to the owner upon the user pressing the submit button.
         + There is validation on the form too to prevent junk query submissions.
+            |                                              Contact Form with validation                                                 |
+            | :-----------------------------------------------------------------------------------------------------------------------: |
+            | [Mobile](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/siteownergoal7mobile.png) |
+            | [Tablet](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/siteownergoal7tablet.png) |
+            |     [PC](https://github.com/JoeyyScott/Trash-Tournaments/blob/master/readme-images/user-stories/siteownergoal7pc.png)     |
+
 
 ### Bugs
 
