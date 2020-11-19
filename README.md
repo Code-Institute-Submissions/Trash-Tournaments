@@ -126,7 +126,7 @@ F. User posted testimonials | 1 | 2
 
 + What don’t they know they need?
 
-    Setup guides for Discord, private matches which provide key information to help any potential users wanting to get involved who may lack this knowhow and to enable all users (mobile, tablet and PC) to find, view and use the site easily without compromising design.
+    Setup guides for Discord and Tournament signup which provide key information to help any potential users wanting to get involved who may lack this knowhow and to enable all users (mobile, tablet and PC) to find, view and use the site easily without compromising design.
 
     Other features further down the line will allow the website to provide a more complete user experience by incorporating user profiles, tournament stat tracking, merchandise and user posted testimonials. These will all help with user satisfaction, retention and familiarisation with the Discord's brand.
 
